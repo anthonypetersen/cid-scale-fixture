@@ -1,0 +1,13 @@
+{
+  "key": "current_status_pregnancy_suspected",
+  "conceptID": 157398724,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

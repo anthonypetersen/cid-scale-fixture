@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_hypertension_current",
+  "conceptID": 233584170,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

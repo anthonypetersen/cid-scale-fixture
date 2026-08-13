@@ -1,0 +1,14 @@
+{
+  "key": "date_of_sun_exposure_first_occurrence",
+  "conceptID": 761354176,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 167225166,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

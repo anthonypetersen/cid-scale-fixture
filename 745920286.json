@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_oral_contraceptive_pre_enrollment",
+  "conceptID": 745920286,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 712692038,
+  "responses": [
+    389181428,
+    527555646,
+    349916958,
+    674374149,
+    420698544
+  ]
+}

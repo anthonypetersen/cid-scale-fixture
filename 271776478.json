@@ -1,0 +1,10 @@
+{
+  "key": "severity_of_diabetes_past_12_months",
+  "conceptID": 271776478,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "type_of_oral_contraceptive_lifetime",
+  "conceptID": 861407813,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

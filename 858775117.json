@@ -1,0 +1,12 @@
+{
+  "key": "date_of_alcohol_use_diagnostic",
+  "conceptID": 858775117,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

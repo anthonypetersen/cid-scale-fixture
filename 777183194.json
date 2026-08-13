@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_smoking_current",
+  "conceptID": 777183194,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 557196660,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

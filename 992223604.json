@@ -1,0 +1,13 @@
+{
+  "key": "current_status_chemotherapy_confirmed",
+  "conceptID": 992223604,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 355786284,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_vegetable_intake_post_enrollment",
+  "conceptID": 957764536,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 557196660,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

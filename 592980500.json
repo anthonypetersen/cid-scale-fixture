@@ -1,0 +1,12 @@
+{
+  "key": "has_ever_alcohol_use_diagnostic",
+  "conceptID": 592980500,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 935055910,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

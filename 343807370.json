@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_anxiety_pre_enrollment",
+  "conceptID": 343807370,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 693873814,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_hormone_therapy_self_report",
+  "conceptID": 489045825,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 872839827,
+  "responses": [
+    418632982,
+    473057226,
+    122006597,
+    732234716,
+    595024474
+  ]
+}

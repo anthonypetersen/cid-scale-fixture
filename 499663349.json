@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_sun_exposure_lifetime",
+  "conceptID": 499663349,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 355786284,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

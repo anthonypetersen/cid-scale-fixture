@@ -1,0 +1,12 @@
+{
+  "key": "provider_reported_hospitalization_self_report",
+  "conceptID": 973866752,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 355786284,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

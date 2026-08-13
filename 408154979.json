@@ -1,0 +1,14 @@
+{
+  "key": "date_of_pap_test_past_12_months",
+  "conceptID": 408154979,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 167225166,
+  "responses": [
+    371664488,
+    590792634,
+    807092097,
+    511394675,
+    149300166
+  ]
+}

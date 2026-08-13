@@ -1,0 +1,13 @@
+{
+  "key": "type_of_hospitalization_pre_enrollment",
+  "conceptID": 997321329,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    654140840,
+    703035541,
+    345416748,
+    681474768,
+    824385722
+  ]
+}

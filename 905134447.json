@@ -1,0 +1,11 @@
+{
+  "key": "date_of_pap_test_baseline",
+  "conceptID": 905134447,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 355786284,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

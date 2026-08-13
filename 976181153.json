@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_chemotherapy_adulthood",
+  "conceptID": 976181153,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 355786284,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

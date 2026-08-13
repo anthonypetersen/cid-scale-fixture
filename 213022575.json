@@ -1,0 +1,14 @@
+{
+  "key": "change_in_radiation_exposure_adulthood",
+  "conceptID": 213022575,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 283771088,
+  "responses": [
+    384827418,
+    820707641,
+    769107373,
+    146227588,
+    129962388
+  ]
+}

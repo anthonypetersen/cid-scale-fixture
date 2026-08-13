@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_obesity_pre_enrollment",
+  "conceptID": 786580521,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

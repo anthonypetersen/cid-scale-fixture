@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_hormone_therapy_current",
+  "conceptID": 705849296,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 693873814,
+  "responses": [
+    831230530,
+    770852606,
+    741306873,
+    200720551,
+    944986929
+  ]
+}

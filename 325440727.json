@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_hospitalization_baseline",
+  "conceptID": 325440727,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    252928918,
+    556841667,
+    581696763,
+    249399207,
+    555332466
+  ]
+}

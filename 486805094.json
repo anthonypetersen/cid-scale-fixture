@@ -1,0 +1,11 @@
+{
+  "key": "confidence_in_mammogram_first_occurrence",
+  "conceptID": 486805094,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

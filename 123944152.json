@@ -1,0 +1,13 @@
+{
+  "key": "date_of_fruit_intake_suspected",
+  "conceptID": 123944152,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "responses": [
+    636537575,
+    339194018,
+    752850456,
+    775268192,
+    441467675
+  ]
+}

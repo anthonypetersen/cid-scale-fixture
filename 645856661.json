@@ -1,0 +1,14 @@
+{
+  "key": "current_status_diabetes_screening",
+  "conceptID": 645856661,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 872839827,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

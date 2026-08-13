@@ -1,0 +1,12 @@
+{
+  "key": "self_reported_breastfeeding_annual",
+  "conceptID": 974249244,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 355786284,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

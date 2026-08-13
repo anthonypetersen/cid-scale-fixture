@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_diabetes_first_occurrence",
+  "conceptID": 999828132,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

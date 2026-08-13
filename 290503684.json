@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_arthritis_first_occurrence",
+  "conceptID": 290503684,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 723779304,
+  "responses": [
+    418632982,
+    473057226,
+    122006597,
+    732234716,
+    595024474
+  ]
+}

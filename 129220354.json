@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_asthma_screening",
+  "conceptID": 129220354,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_sleep_apnea_current",
+  "conceptID": 381956986,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 283771088,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

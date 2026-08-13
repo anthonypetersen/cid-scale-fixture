@@ -1,0 +1,14 @@
+{
+  "key": "number_of_hypertension_baseline",
+  "conceptID": 966180812,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 355786284,
+  "responses": [
+    458890394,
+    374691143,
+    227131343,
+    486423714,
+    252152928
+  ]
+}

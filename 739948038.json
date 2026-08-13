@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_smoking_proxy_report",
+  "conceptID": 739948038,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 355786284,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

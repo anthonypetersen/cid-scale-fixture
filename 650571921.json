@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_psa_test_confirmed",
+  "conceptID": 650571921,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 935055910,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

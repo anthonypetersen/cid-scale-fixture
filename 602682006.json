@@ -1,0 +1,13 @@
+{
+  "key": "current_status_obesity_self_report",
+  "conceptID": 602682006,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "date_of_sun_exposure_annual",
+  "conceptID": 492117023,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

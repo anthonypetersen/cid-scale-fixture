@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_vegetable_intake_adulthood",
+  "conceptID": 385145167,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 557196660,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

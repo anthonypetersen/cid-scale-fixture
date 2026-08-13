@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_arthritis_pre_enrollment",
+  "conceptID": 302391158,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

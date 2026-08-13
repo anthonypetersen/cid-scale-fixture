@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_vaping_past_30_days",
+  "conceptID": 647787188,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 355786284,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

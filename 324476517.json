@@ -1,0 +1,14 @@
+{
+  "key": "current_status_radiation_exposure_annual",
+  "conceptID": 324476517,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 283771088,
+  "responses": [
+    283222050,
+    354828030,
+    415567240,
+    612435709,
+    906515953
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "date_of_oral_contraceptive_most_recent",
+  "conceptID": 678556504,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

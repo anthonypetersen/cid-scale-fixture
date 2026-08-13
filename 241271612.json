@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_radiation_exposure_lifetime",
+  "conceptID": 241271612,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 283771088,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

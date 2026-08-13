@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_smoking_confirmed",
+  "conceptID": 741555532,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 283771088,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

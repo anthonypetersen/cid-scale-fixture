@@ -1,0 +1,14 @@
+{
+  "key": "type_of_pregnancy_past_30_days",
+  "conceptID": 845393688,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 557196660,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

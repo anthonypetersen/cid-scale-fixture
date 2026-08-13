@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_depression_lifetime",
+  "conceptID": 698157231,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 872839827,
+  "responses": [
+    766118233,
+    793658884,
+    990262162,
+    327609846,
+    420452357
+  ]
+}

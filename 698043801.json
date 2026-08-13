@@ -1,0 +1,13 @@
+{
+  "key": "number_of_oral_contraceptive_past_30_days",
+  "conceptID": 698043801,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

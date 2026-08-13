@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_mammogram_follow_up",
+  "conceptID": 532623217,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

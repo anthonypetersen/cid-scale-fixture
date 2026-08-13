@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_chemotherapy_self_report",
+  "conceptID": 143126646,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 167225166,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

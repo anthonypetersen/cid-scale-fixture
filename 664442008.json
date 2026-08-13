@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_surgery_pre_enrollment",
+  "conceptID": 664442008,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

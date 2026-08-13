@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_hormone_therapy_follow_up",
+  "conceptID": 536133530,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 557196660,
+  "responses": [
+    418632982,
+    473057226,
+    122006597,
+    732234716,
+    595024474
+  ]
+}

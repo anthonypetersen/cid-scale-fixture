@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_hospitalization_past_30_days",
+  "conceptID": 957265533,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

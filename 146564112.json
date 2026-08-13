@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_sunscreen_use_proxy_report",
+  "conceptID": 146564112,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 935055910,
+  "responses": [
+    283222050,
+    354828030,
+    415567240,
+    612435709,
+    906515953
+  ]
+}

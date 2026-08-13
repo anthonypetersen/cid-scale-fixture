@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_skin_exam_childhood",
+  "conceptID": 365943275,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 693873814,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

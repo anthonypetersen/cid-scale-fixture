@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_hospitalization_screening",
+  "conceptID": 587009330,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

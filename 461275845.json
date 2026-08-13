@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_surgery_adulthood",
+  "conceptID": 461275845,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 167225166,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

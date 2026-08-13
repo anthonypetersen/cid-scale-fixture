@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_vegetable_intake_pre_enrollment",
+  "conceptID": 591238038,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

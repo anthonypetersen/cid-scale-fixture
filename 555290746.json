@@ -1,0 +1,13 @@
+{
+  "key": "type_of_diabetes_pre_enrollment",
+  "conceptID": 555290746,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

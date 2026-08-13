@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_vaping_self_report",
+  "conceptID": 380204080,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 723779304,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

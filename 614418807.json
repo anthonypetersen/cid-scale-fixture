@@ -1,0 +1,11 @@
+{
+  "key": "has_ever_skin_exam_pre_enrollment",
+  "conceptID": 614418807,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

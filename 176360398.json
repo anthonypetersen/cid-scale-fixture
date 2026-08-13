@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_exercise_confirmed",
+  "conceptID": 176360398,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 872839827,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

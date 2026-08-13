@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_hospitalization_adulthood",
+  "conceptID": 503091688,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 167225166,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

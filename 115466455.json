@@ -1,0 +1,14 @@
+{
+  "key": "date_of_hormone_therapy_confirmed",
+  "conceptID": 115466455,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 557196660,
+  "responses": [
+    389181428,
+    527555646,
+    349916958,
+    674374149,
+    420698544
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_pregnancy_first_occurrence",
+  "conceptID": 839515115,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

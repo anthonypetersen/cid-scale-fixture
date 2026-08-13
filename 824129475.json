@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_breastfeeding_current",
+  "conceptID": 824129475,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 693873814,
+  "responses": [
+    992931137,
+    668876715,
+    647471737,
+    874983300,
+    131784751
+  ]
+}

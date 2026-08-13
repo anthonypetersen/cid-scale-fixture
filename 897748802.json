@@ -1,0 +1,14 @@
+{
+  "key": "date_of_depression_diagnostic",
+  "conceptID": 897748802,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 872839827,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

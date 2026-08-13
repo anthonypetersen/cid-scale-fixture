@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_skin_exam_annual",
+  "conceptID": 220523212,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 557196660,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

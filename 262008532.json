@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_asthma_screening",
+  "conceptID": 262008532,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    796243591,
+    396830159,
+    524952828,
+    917499286,
+    717159169
+  ]
+}

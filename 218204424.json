@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_pregnancy_most_recent",
+  "conceptID": 218204424,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 723779304,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

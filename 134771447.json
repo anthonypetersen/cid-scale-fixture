@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_depression_past_30_days",
+  "conceptID": 134771447,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 712692038,
+  "responses": [
+    418632982,
+    473057226,
+    122006597,
+    732234716,
+    595024474
+  ]
+}

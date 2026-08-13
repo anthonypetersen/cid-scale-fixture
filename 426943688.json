@@ -1,0 +1,14 @@
+{
+  "key": "current_status_arthritis_lifetime",
+  "conceptID": 426943688,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 363692473,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

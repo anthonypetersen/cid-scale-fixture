@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_skin_exam_childhood",
+  "conceptID": 947265393,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

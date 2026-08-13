@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_smoking_screening",
+  "conceptID": 785512496,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 723779304,
+  "responses": [
+    458890394,
+    374691143,
+    227131343,
+    486423714,
+    252152928
+  ]
+}

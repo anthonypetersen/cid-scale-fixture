@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_diabetes_childhood",
+  "conceptID": 666374826,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 355786284,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

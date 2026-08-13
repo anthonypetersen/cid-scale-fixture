@@ -1,0 +1,14 @@
+{
+  "key": "current_status_radiation_exposure_first_occurrence",
+  "conceptID": 890313427,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 557196660,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

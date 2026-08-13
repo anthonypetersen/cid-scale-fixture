@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_oral_contraceptive_past_12_months",
+  "conceptID": 625325599,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

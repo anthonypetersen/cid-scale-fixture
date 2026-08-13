@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_radiation_exposure_post_enrollment",
+  "conceptID": 204854101,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 935055910,
+  "responses": [
+    796243591,
+    396830159,
+    524952828,
+    917499286,
+    717159169
+  ]
+}

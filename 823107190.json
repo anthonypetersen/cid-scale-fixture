@@ -1,0 +1,14 @@
+{
+  "key": "number_of_hormone_therapy_baseline",
+  "conceptID": 823107190,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 872839827,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "key": "frequency_of_psa_test_proxy_report",
+  "conceptID": 996598601,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 872839827,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

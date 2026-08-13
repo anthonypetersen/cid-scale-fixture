@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_pap_test_pre_enrollment",
+  "conceptID": 138587492,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 872839827,
+  "responses": [
+    384827418,
+    820707641,
+    769107373,
+    146227588,
+    129962388
+  ]
+}

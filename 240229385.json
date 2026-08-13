@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_sun_exposure_confirmed",
+  "conceptID": 240229385,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 557196660,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

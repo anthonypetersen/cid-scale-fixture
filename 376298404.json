@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_exercise_lifetime",
+  "conceptID": 376298404,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 693873814,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

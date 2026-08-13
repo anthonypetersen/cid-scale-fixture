@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_sleep_apnea_suspected",
+  "conceptID": 174871375,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 935055910,
+  "responses": [
+    992931137,
+    668876715,
+    647471737,
+    874983300,
+    131784751
+  ]
+}

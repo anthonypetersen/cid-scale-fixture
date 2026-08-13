@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_pregnancy_past_30_days",
+  "conceptID": 921439659,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

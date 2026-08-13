@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_chemotherapy_follow_up",
+  "conceptID": 736310265,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 363692473,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

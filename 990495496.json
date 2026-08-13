@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_alcohol_use_screening",
+  "conceptID": 990495496,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 935055910,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

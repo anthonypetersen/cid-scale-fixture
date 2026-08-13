@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_sleep_apnea_lifetime",
+  "conceptID": 851936375,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 723779304,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

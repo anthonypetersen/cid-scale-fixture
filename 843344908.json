@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_smoking_pre_enrollment",
+  "conceptID": 843344908,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

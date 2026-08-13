@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_pregnancy_current",
+  "conceptID": 386377706,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 557196660,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

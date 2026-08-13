@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_chemotherapy_baseline",
+  "conceptID": 108148499,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 693873814,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_alcohol_use_adulthood",
+  "conceptID": 177137991,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 723779304,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

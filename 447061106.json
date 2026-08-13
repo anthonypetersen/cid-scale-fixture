@@ -1,0 +1,11 @@
+{
+  "key": "age_at_first_pap_test_adulthood",
+  "conceptID": 447061106,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_alcohol_use_suspected",
+  "conceptID": 162776650,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 872839827,
+  "responses": [
+    796243591,
+    396830159,
+    524952828,
+    917499286,
+    717159169
+  ]
+}

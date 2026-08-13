@@ -1,0 +1,13 @@
+{
+  "key": "date_of_mammogram_adulthood",
+  "conceptID": 935226806,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "responses": [
+    283222050,
+    354828030,
+    415567240,
+    612435709,
+    906515953
+  ]
+}

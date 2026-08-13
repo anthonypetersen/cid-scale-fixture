@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_mammogram_quarterly",
+  "conceptID": 129512668,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 557196660,
+  "responses": [
+    767109432,
+    985012601,
+    258282528,
+    765066291,
+    761248402
+  ]
+}

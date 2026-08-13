@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_sun_exposure_annual",
+  "conceptID": 522625258,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 283771088,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

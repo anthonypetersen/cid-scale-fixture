@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_pregnancy_adulthood",
+  "conceptID": 996000240,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 872839827,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

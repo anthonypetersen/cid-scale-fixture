@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_pregnancy_most_recent",
+  "conceptID": 912464886,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 363692473,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_radiation_exposure_diagnostic",
+  "conceptID": 330499981,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 167225166,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

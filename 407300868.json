@@ -1,0 +1,12 @@
+{
+  "key": "reason_for_hypertension_first_occurrence",
+  "conceptID": 407300868,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

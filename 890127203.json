@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_hypertension_quarterly",
+  "conceptID": 890127203,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 712692038,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

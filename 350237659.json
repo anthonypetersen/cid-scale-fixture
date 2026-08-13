@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_mammogram_pre_enrollment",
+  "conceptID": 350237659,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

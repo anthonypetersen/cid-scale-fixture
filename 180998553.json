@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_obesity_past_12_months",
+  "conceptID": 180998553,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 723779304,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

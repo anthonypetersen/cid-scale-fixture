@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_chemotherapy_current",
+  "conceptID": 968029605,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 363692473,
+  "responses": [
+    831230530,
+    770852606,
+    741306873,
+    200720551,
+    944986929
+  ]
+}

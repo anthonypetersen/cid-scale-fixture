@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_hormone_therapy_past_30_days",
+  "conceptID": 490648631,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

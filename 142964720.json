@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_skin_exam_screening",
+  "conceptID": 142964720,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 712692038,
+  "responses": [
+    392907393,
+    616239373,
+    611916263,
+    530897153,
+    516961975
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_pap_test_pre_enrollment",
+  "conceptID": 393420155,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    766118233,
+    793658884,
+    990262162,
+    327609846,
+    420452357
+  ]
+}

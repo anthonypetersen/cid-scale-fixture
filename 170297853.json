@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_asthma_post_enrollment",
+  "conceptID": 170297853,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 363692473,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_mammogram_lifetime",
+  "conceptID": 340860107,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "change_in_radiation_exposure_childhood",
+  "conceptID": 637776930,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 723779304,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

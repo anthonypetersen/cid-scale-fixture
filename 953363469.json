@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_hospitalization_annual",
+  "conceptID": 953363469,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

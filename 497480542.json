@@ -1,0 +1,12 @@
+{
+  "key": "frequency_of_depression_quarterly",
+  "conceptID": 497480542,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 712692038,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

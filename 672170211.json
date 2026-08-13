@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_pregnancy_pre_enrollment",
+  "conceptID": 672170211,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 363692473,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

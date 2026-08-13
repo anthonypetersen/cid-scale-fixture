@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_hospitalization_most_recent",
+  "conceptID": 289250935,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    796243591,
+    396830159,
+    524952828,
+    917499286,
+    717159169
+  ]
+}

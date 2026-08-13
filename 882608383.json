@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_oral_contraceptive_most_recent",
+  "conceptID": 882608383,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 935055910,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

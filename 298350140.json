@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_vegetable_intake_baseline",
+  "conceptID": 298350140,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    392907393,
+    616239373,
+    611916263,
+    530897153,
+    516961975
+  ]
+}

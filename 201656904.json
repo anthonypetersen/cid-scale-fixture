@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_radiation_exposure_self_report",
+  "conceptID": 201656904,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 363692473,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

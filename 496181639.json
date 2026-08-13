@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_colonoscopy_quarterly",
+  "conceptID": 496181639,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 167225166,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

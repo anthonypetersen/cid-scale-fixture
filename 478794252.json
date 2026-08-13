@@ -1,0 +1,14 @@
+{
+  "key": "date_of_colonoscopy_self_report",
+  "conceptID": 478794252,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 363692473,
+  "responses": [
+    654140840,
+    703035541,
+    345416748,
+    681474768,
+    824385722
+  ]
+}

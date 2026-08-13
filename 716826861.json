@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_hospitalization_quarterly",
+  "conceptID": 716826861,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 355786284,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

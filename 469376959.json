@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_arthritis_screening",
+  "conceptID": 469376959,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 693873814,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

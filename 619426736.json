@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_diabetes_quarterly",
+  "conceptID": 619426736,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 167225166,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

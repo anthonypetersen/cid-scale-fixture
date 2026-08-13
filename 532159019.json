@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_sunscreen_use_confirmed",
+  "conceptID": 532159019,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "responses": [
+    458890394,
+    374691143,
+    227131343,
+    486423714,
+    252152928
+  ]
+}

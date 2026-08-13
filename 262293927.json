@@ -1,0 +1,11 @@
+{
+  "key": "provider_reported_anxiety_diagnostic",
+  "conceptID": 262293927,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

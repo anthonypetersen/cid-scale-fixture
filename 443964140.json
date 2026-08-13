@@ -1,0 +1,13 @@
+{
+  "key": "type_of_alcohol_use_confirmed",
+  "conceptID": 443964140,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

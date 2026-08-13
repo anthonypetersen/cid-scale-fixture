@@ -1,0 +1,13 @@
+{
+  "key": "date_of_hypertension_annual",
+  "conceptID": 525445711,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 872839827,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

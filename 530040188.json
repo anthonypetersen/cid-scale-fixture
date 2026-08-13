@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_red_meat_annual",
+  "conceptID": 530040188,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 167225166,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "number_of_pregnancy_self_report",
+  "conceptID": 731357382,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 557196660,
+  "responses": [
+    392907393,
+    616239373,
+    611916263,
+    530897153,
+    516961975
+  ]
+}

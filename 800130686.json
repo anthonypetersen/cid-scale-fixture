@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_chemotherapy_diagnostic",
+  "conceptID": 800130686,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

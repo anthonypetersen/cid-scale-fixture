@@ -1,0 +1,14 @@
+{
+  "key": "number_of_sunscreen_use_childhood",
+  "conceptID": 927905726,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 355786284,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

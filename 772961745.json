@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_asthma_follow_up",
+  "conceptID": 772961745,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 557196660,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

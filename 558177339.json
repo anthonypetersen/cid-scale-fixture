@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_hormone_therapy_pre_enrollment",
+  "conceptID": 558177339,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

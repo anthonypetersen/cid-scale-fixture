@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_obesity_pre_enrollment",
+  "conceptID": 728890195,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 872839827,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

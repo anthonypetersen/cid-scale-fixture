@@ -1,0 +1,14 @@
+{
+  "key": "type_of_arthritis_self_report",
+  "conceptID": 177337478,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 693873814,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

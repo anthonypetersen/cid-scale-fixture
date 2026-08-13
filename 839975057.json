@@ -1,0 +1,11 @@
+{
+  "key": "type_of_vaping_diagnostic",
+  "conceptID": 839975057,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 872839827,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

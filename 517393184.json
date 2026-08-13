@@ -1,0 +1,14 @@
+{
+  "key": "change_in_oral_contraceptive_past_30_days",
+  "conceptID": 517393184,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 557196660,
+  "responses": [
+    654140840,
+    703035541,
+    345416748,
+    681474768,
+    824385722
+  ]
+}

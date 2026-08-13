@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_pregnancy_proxy_report",
+  "conceptID": 457206750,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 355786284,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_hospitalization_screening",
+  "conceptID": 322437454,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

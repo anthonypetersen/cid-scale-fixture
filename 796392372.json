@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_colonoscopy_suspected",
+  "conceptID": 796392372,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 557196660,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

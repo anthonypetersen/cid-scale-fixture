@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_sleep_apnea_suspected",
+  "conceptID": 598627199,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

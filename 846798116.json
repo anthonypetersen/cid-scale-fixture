@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_sunscreen_use_adulthood",
+  "conceptID": 846798116,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 167225166,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

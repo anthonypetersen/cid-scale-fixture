@@ -1,0 +1,14 @@
+{
+  "key": "change_in_smoking_suspected",
+  "conceptID": 538917388,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 712692038,
+  "responses": [
+    766118233,
+    793658884,
+    990262162,
+    327609846,
+    420452357
+  ]
+}

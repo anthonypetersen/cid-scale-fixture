@@ -1,0 +1,14 @@
+{
+  "key": "current_status_asthma_adulthood",
+  "conceptID": 227433898,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 693873814,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

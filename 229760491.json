@@ -1,0 +1,11 @@
+{
+  "key": "type_of_sleep_apnea_first_occurrence",
+  "conceptID": 229760491,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

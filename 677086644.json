@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_depression_proxy_report",
+  "conceptID": 677086644,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 935055910,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

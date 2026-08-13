@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hospitalization_quarterly",
+  "conceptID": 588249544,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 283771088,
+  "responses": [
+    915666423,
+    935117361,
+    683315969,
+    752341326,
+    218256127
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_alcohol_use_proxy_report",
+  "conceptID": 266025407,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 712692038,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

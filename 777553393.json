@@ -1,0 +1,10 @@
+{
+  "key": "confidence_in_smoking_lifetime",
+  "conceptID": 777553393,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

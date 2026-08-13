@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_pregnancy_screening",
+  "conceptID": 461063363,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

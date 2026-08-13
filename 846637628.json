@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_pap_test_past_30_days",
+  "conceptID": 846637628,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

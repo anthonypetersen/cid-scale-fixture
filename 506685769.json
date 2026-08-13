@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_hormone_therapy_pre_enrollment",
+  "conceptID": 506685769,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 355786284,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

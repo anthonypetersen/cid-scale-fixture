@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_arthritis_screening",
+  "conceptID": 124275908,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 723779304,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_hospitalization_lifetime",
+  "conceptID": 190601407,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 723779304,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

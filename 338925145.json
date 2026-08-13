@@ -1,0 +1,12 @@
+{
+  "key": "frequency_of_hypertension_screening",
+  "conceptID": 338925145,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 935055910,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_arthritis_proxy_report",
+  "conceptID": 279410287,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 872839827,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

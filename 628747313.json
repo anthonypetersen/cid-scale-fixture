@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_diabetes_annual",
+  "conceptID": 628747313,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 693873814,
+  "responses": [
+    796243591,
+    396830159,
+    524952828,
+    917499286,
+    717159169
+  ]
+}

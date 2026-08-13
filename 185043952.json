@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_sun_exposure_adulthood",
+  "conceptID": 185043952,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

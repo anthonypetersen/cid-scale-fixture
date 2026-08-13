@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_alcohol_use_post_enrollment",
+  "conceptID": 871594111,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 167225166,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

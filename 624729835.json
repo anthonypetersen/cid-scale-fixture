@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_hospitalization_proxy_report",
+  "conceptID": 624729835,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

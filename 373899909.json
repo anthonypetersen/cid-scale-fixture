@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_colonoscopy_proxy_report",
+  "conceptID": 373899909,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 935055910,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

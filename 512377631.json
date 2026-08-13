@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_alcohol_use_past_30_days",
+  "conceptID": 512377631,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 363692473,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

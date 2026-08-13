@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_breastfeeding_screening",
+  "conceptID": 851108261,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 872839827,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

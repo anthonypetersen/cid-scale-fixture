@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_smoking_baseline",
+  "conceptID": 377002704,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 557196660,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

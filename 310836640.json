@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_fruit_intake_first_occurrence",
+  "conceptID": 310836640,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "date_of_psa_test_suspected",
+  "conceptID": 275013208,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 872839827,
+  "responses": [
+    418632982,
+    473057226,
+    122006597,
+    732234716,
+    595024474
+  ]
+}

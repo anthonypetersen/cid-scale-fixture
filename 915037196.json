@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_oral_contraceptive_screening",
+  "conceptID": 915037196,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 557196660,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

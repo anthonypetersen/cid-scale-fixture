@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_mammogram_past_12_months",
+  "conceptID": 275842362,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 557196660,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

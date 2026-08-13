@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_hypertension_post_enrollment",
+  "conceptID": 694211166,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 723779304,
+  "responses": [
+    915666423,
+    935117361,
+    683315969,
+    752341326,
+    218256127
+  ]
+}

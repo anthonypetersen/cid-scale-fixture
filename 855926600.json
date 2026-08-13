@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_colonoscopy_quarterly",
+  "conceptID": 855926600,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 363692473,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

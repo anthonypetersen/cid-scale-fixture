@@ -1,0 +1,11 @@
+{
+  "key": "self_reported_arthritis_baseline",
+  "conceptID": 389835559,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_oral_contraceptive_annual",
+  "conceptID": 289716184,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 355786284,
+  "responses": [
+    418632982,
+    473057226,
+    122006597,
+    732234716,
+    595024474
+  ]
+}

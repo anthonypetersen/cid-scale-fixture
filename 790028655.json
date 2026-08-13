@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_sun_exposure_self_report",
+  "conceptID": 790028655,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

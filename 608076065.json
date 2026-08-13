@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_colonoscopy_diagnostic",
+  "conceptID": 608076065,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 363692473,
+  "responses": [
+    283222050,
+    354828030,
+    415567240,
+    612435709,
+    906515953
+  ]
+}

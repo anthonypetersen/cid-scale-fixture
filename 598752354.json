@@ -1,0 +1,11 @@
+{
+  "key": "age_at_first_oral_contraceptive_past_30_days",
+  "conceptID": 598752354,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 723779304,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

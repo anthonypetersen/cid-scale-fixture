@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_sleep_apnea_self_report",
+  "conceptID": 781744834,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 712692038,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

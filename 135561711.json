@@ -1,0 +1,14 @@
+{
+  "key": "number_of_hormone_therapy_past_12_months",
+  "conceptID": 135561711,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 723779304,
+  "responses": [
+    992931137,
+    668876715,
+    647471737,
+    874983300,
+    131784751
+  ]
+}

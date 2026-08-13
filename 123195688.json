@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_psa_test_lifetime",
+  "conceptID": 123195688,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 363692473,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

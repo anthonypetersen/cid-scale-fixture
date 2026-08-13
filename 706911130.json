@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_vegetable_intake_self_report",
+  "conceptID": 706911130,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

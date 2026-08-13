@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_vaping_diagnostic",
+  "conceptID": 773492018,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 872839827,
+  "responses": [
+    389181428,
+    527555646,
+    349916958,
+    674374149,
+    420698544
+  ]
+}

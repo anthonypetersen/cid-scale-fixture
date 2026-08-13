@@ -1,0 +1,12 @@
+{
+  "key": "duration_of_hypertension_screening",
+  "conceptID": 884602038,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

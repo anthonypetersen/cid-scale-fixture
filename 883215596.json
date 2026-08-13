@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_smoking_quarterly",
+  "conceptID": 883215596,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 283771088,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

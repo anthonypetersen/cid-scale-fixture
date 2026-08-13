@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_alcohol_use_post_enrollment",
+  "conceptID": 579618350,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 355786284,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

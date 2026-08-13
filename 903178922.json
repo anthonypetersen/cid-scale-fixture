@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_radiation_exposure_annual",
+  "conceptID": 903178922,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 363692473,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

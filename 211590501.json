@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_surgery_baseline",
+  "conceptID": 211590501,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 355786284,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

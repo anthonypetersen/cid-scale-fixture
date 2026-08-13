@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_hypertension_lifetime",
+  "conceptID": 679827376,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 363692473,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

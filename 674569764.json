@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_smoking_first_occurrence",
+  "conceptID": 674569764,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 723779304,
+  "responses": [
+    654140840,
+    703035541,
+    345416748,
+    681474768,
+    824385722
+  ]
+}

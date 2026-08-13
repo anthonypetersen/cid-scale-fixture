@@ -1,0 +1,14 @@
+{
+  "key": "change_in_diabetes_diagnostic",
+  "conceptID": 625354433,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 355786284,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

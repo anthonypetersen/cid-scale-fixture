@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_anxiety_post_enrollment",
+  "conceptID": 538296743,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 363692473,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

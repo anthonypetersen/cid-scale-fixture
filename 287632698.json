@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_diabetes_follow_up",
+  "conceptID": 287632698,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 935055910,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

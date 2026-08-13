@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_fruit_intake_post_enrollment",
+  "conceptID": 687327465,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

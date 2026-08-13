@@ -1,0 +1,12 @@
+{
+  "key": "self_reported_fruit_intake_suspected",
+  "conceptID": 780624369,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

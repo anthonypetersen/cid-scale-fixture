@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_hospitalization_pre_enrollment",
+  "conceptID": 705497892,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "responses": [
+    831230530,
+    770852606,
+    741306873,
+    200720551,
+    944986929
+  ]
+}

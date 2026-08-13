@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_anxiety_past_30_days",
+  "conceptID": 362919258,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 935055910,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

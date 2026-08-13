@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_surgery_pre_enrollment",
+  "conceptID": 774220372,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

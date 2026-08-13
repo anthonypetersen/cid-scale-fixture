@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_vegetable_intake_suspected",
+  "conceptID": 506348390,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

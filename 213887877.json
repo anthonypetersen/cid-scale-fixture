@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_arthritis_pre_enrollment",
+  "conceptID": 213887877,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 872839827,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

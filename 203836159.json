@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_skin_exam_quarterly",
+  "conceptID": 203836159,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 723779304,
+  "responses": [
+    418632982,
+    473057226,
+    122006597,
+    732234716,
+    595024474
+  ]
+}

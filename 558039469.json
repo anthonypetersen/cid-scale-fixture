@@ -1,0 +1,14 @@
+{
+  "key": "change_in_hormone_therapy_current",
+  "conceptID": 558039469,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 935055910,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

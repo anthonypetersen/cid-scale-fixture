@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_depression_confirmed",
+  "conceptID": 768002002,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 363692473,
+  "responses": [
+    915666423,
+    935117361,
+    683315969,
+    752341326,
+    218256127
+  ]
+}

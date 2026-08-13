@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_oral_contraceptive_adulthood",
+  "conceptID": 117854056,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 935055910,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

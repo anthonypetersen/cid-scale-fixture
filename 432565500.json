@@ -1,0 +1,13 @@
+{
+  "key": "number_of_colonoscopy_past_12_months",
+  "conceptID": 432565500,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "responses": [
+    789386364,
+    877605118,
+    636732737,
+    373307105,
+    160038132
+  ]
+}

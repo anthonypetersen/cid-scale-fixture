@@ -1,0 +1,11 @@
+{
+  "key": "provider_reported_diabetes_most_recent",
+  "conceptID": 331551281,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 283771088,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

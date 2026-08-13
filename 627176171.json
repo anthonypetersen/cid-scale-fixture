@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_vaping_pre_enrollment",
+  "conceptID": 627176171,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 355786284,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

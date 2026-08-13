@@ -1,0 +1,14 @@
+{
+  "key": "date_of_obesity_first_occurrence",
+  "conceptID": 825630919,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 283771088,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

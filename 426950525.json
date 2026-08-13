@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_hypertension_suspected",
+  "conceptID": 426950525,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 935055910,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

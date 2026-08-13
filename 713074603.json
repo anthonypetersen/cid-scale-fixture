@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_hospitalization_screening",
+  "conceptID": 713074603,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 557196660,
+  "responses": [
+    295559422,
+    107175770,
+    866783021,
+    901631087,
+    799046183
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_asthma_baseline",
+  "conceptID": 727571219,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "responses": [
+    789386364,
+    877605118,
+    636732737,
+    373307105,
+    160038132
+  ]
+}

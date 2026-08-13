@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_chemotherapy_post_enrollment",
+  "conceptID": 189436943,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 283771088,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

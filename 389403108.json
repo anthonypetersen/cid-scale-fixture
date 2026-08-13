@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_asthma_diagnostic",
+  "conceptID": 389403108,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

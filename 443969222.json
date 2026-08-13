@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_radiation_exposure_baseline",
+  "conceptID": 443969222,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 935055910,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "type_of_arthritis_quarterly",
+  "conceptID": 682530192,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

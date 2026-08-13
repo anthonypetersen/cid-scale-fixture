@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_radiation_exposure_first_occurrence",
+  "conceptID": 327058829,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 283771088,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

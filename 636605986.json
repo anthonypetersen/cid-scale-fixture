@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_obesity_self_report",
+  "conceptID": 636605986,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 872839827,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

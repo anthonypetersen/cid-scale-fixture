@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_mammogram_follow_up",
+  "conceptID": 911699379,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_asthma_lifetime",
+  "conceptID": 405737181,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 355786284,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

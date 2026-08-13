@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_anxiety_past_30_days",
+  "conceptID": 479252504,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 363692473,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

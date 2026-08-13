@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_diabetes_proxy_report",
+  "conceptID": 345711831,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 693873814,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

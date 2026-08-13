@@ -1,0 +1,14 @@
+{
+  "key": "change_in_diabetes_quarterly",
+  "conceptID": 353778922,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 723779304,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

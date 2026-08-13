@@ -1,0 +1,11 @@
+{
+  "key": "current_status_sleep_apnea_pre_enrollment",
+  "conceptID": 670293462,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 693873814,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

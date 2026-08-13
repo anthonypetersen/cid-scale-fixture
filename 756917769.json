@@ -1,0 +1,13 @@
+{
+  "key": "number_of_hospitalization_baseline",
+  "conceptID": 756917769,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

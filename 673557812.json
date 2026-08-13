@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_breastfeeding_lifetime",
+  "conceptID": 673557812,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 363692473,
+  "responses": [
+    371664488,
+    590792634,
+    807092097,
+    511394675,
+    149300166
+  ]
+}

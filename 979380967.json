@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_smoking_lifetime",
+  "conceptID": 979380967,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 167225166,
+  "responses": [
+    654140840,
+    703035541,
+    345416748,
+    681474768,
+    824385722
+  ]
+}

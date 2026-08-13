@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_pregnancy_current",
+  "conceptID": 901815806,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_fruit_intake_pre_enrollment",
+  "conceptID": 818356184,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 167225166,
+  "responses": [
+    252928918,
+    556841667,
+    581696763,
+    249399207,
+    555332466
+  ]
+}

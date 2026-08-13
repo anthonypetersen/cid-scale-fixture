@@ -1,0 +1,14 @@
+{
+  "key": "change_in_hormone_therapy_suspected",
+  "conceptID": 641213610,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 723779304,
+  "responses": [
+    654140840,
+    703035541,
+    345416748,
+    681474768,
+    824385722
+  ]
+}

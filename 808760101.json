@@ -1,0 +1,11 @@
+{
+  "key": "severity_of_psa_test_baseline",
+  "conceptID": 808760101,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 935055910,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

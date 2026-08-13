@@ -1,0 +1,13 @@
+{
+  "key": "date_of_oral_contraceptive_annual",
+  "conceptID": 141471142,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

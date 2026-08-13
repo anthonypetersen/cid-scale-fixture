@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_vegetable_intake_childhood",
+  "conceptID": 370844605,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 283771088,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "current_status_hospitalization_pre_enrollment",
+  "conceptID": 934521228,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 363692473,
+  "responses": [
+    458890394,
+    374691143,
+    227131343,
+    486423714,
+    252152928
+  ]
+}

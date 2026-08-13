@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_breastfeeding_pre_enrollment",
+  "conceptID": 164306787,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "last_occurrence_vegetable_intake_childhood",
+  "conceptID": 394613672,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 355786284,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

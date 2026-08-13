@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_alcohol_use_childhood",
+  "conceptID": 332181584,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_radiation_exposure_screening",
+  "conceptID": 871148589,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 167225166,
+  "responses": [
+    915666423,
+    935117361,
+    683315969,
+    752341326,
+    218256127
+  ]
+}

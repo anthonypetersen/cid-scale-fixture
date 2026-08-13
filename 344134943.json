@@ -1,0 +1,14 @@
+{
+  "key": "current_status_hypertension_baseline",
+  "conceptID": 344134943,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 723779304,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

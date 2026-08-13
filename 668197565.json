@@ -1,0 +1,12 @@
+{
+  "key": "age_at_first_sunscreen_use_pre_enrollment",
+  "conceptID": 668197565,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 363692473,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

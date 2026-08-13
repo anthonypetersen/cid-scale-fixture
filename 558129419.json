@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_oral_contraceptive_confirmed",
+  "conceptID": 558129419,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

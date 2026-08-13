@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_fruit_intake_pre_enrollment",
+  "conceptID": 620452213,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 723779304,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

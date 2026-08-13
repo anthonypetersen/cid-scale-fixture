@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_oral_contraceptive_post_enrollment",
+  "conceptID": 613203419,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "responses": [
+    371664488,
+    590792634,
+    807092097,
+    511394675,
+    149300166
+  ]
+}

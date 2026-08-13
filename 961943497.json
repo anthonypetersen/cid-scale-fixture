@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_vaping_past_30_days",
+  "conceptID": 961943497,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

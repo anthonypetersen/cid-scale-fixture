@@ -1,0 +1,14 @@
+{
+  "key": "date_of_chemotherapy_diagnostic",
+  "conceptID": 422819017,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 712692038,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

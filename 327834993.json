@@ -1,0 +1,12 @@
+{
+  "key": "self_reported_radiation_exposure_adulthood",
+  "conceptID": 327834993,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "current_status_depression_lifetime",
+  "conceptID": 400125252,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

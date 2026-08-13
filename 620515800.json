@@ -1,0 +1,11 @@
+{
+  "key": "confidence_in_sun_exposure_baseline",
+  "conceptID": 620515800,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

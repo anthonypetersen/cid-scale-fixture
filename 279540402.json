@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_sun_exposure_screening",
+  "conceptID": 279540402,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 872839827,
+  "responses": [
+    392907393,
+    616239373,
+    611916263,
+    530897153,
+    516961975
+  ]
+}

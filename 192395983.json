@@ -1,0 +1,14 @@
+{
+  "key": "current_status_pregnancy_pre_enrollment",
+  "conceptID": 192395983,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 693873814,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_arthritis_baseline",
+  "conceptID": 944756604,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 355786284,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

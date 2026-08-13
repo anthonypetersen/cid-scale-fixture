@@ -1,0 +1,12 @@
+{
+  "key": "severity_of_asthma_quarterly",
+  "conceptID": 975534499,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 723779304,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

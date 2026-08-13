@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_vegetable_intake_past_30_days",
+  "conceptID": 590759027,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 355786284,
+  "responses": [
+    334670354,
+    895095511,
+    923073275,
+    798096494,
+    457528658
+  ]
+}

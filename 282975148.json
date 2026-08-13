@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_hormone_therapy_pre_enrollment",
+  "conceptID": 282975148,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    796243591,
+    396830159,
+    524952828,
+    917499286,
+    717159169
+  ]
+}

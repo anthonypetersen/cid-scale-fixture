@@ -1,0 +1,13 @@
+{
+  "key": "current_status_vegetable_intake_first_occurrence",
+  "conceptID": 536209859,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 167225166,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

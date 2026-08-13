@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_diabetes_diagnostic",
+  "conceptID": 304241660,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

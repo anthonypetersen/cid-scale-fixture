@@ -1,0 +1,11 @@
+{
+  "key": "confidence_in_pap_test_first_occurrence",
+  "conceptID": 935760838,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 167225166,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

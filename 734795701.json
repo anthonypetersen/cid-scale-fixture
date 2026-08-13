@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_hospitalization_pre_enrollment",
+  "conceptID": 734795701,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

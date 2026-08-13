@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_vegetable_intake_past_12_months",
+  "conceptID": 550484116,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 723779304,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

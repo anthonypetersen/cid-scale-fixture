@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_vegetable_intake_current",
+  "conceptID": 380489462,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 712692038,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

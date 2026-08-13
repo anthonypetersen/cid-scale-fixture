@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_sun_exposure_adulthood",
+  "conceptID": 445386010,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 872839827,
+  "responses": [
+    458890394,
+    374691143,
+    227131343,
+    486423714,
+    252152928
+  ]
+}

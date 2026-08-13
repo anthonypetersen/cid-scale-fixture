@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_chemotherapy_childhood",
+  "conceptID": 922847173,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 693873814,
+  "responses": [
+    371664488,
+    590792634,
+    807092097,
+    511394675,
+    149300166
+  ]
+}

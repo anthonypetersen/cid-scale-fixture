@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_chemotherapy_first_occurrence",
+  "conceptID": 146669105,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

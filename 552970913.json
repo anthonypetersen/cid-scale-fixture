@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_pap_test_lifetime",
+  "conceptID": 552970913,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 693873814,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_arthritis_annual",
+  "conceptID": 261807486,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 723779304,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

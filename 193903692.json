@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_hormone_therapy_first_occurrence",
+  "conceptID": 193903692,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

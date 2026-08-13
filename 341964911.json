@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_oral_contraceptive_suspected",
+  "conceptID": 341964911,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 723779304,
+  "responses": [
+    789386364,
+    877605118,
+    636732737,
+    373307105,
+    160038132
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "date_of_surgery_pre_enrollment",
+  "conceptID": 523777933,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 355786284,
+  "responses": [
+    796243591,
+    396830159,
+    524952828,
+    917499286,
+    717159169
+  ]
+}

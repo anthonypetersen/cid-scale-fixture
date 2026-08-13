@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_arthritis_post_enrollment",
+  "conceptID": 399823785,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

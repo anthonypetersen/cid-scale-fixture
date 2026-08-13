@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_fruit_intake_screening",
+  "conceptID": 637755908,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    766118233,
+    793658884,
+    990262162,
+    327609846,
+    420452357
+  ]
+}

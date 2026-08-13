@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_hormone_therapy_past_30_days",
+  "conceptID": 447865977,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

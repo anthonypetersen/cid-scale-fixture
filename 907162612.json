@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_depression_past_30_days",
+  "conceptID": 907162612,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "responses": [
+    334670354,
+    895095511,
+    923073275,
+    798096494,
+    457528658
+  ]
+}

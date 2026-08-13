@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_pregnancy_screening",
+  "conceptID": 974434748,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 693873814,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

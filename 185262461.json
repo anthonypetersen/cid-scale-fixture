@@ -1,0 +1,11 @@
+{
+  "key": "frequency_of_sleep_apnea_self_report",
+  "conceptID": 185262461,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

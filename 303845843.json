@@ -1,0 +1,11 @@
+{
+  "key": "severity_of_smoking_pre_enrollment",
+  "conceptID": 303845843,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

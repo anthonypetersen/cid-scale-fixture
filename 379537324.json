@@ -1,0 +1,14 @@
+{
+  "key": "current_status_mammogram_childhood",
+  "conceptID": 379537324,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 283771088,
+  "responses": [
+    992931137,
+    668876715,
+    647471737,
+    874983300,
+    131784751
+  ]
+}

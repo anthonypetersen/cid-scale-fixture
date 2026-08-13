@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_oral_contraceptive_lifetime",
+  "conceptID": 950476474,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

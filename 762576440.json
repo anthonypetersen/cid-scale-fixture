@@ -1,0 +1,13 @@
+{
+  "key": "date_of_vaping_past_30_days",
+  "conceptID": 762576440,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

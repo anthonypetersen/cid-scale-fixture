@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_hospitalization_baseline",
+  "conceptID": 134654900,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

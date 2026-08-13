@@ -1,0 +1,11 @@
+{
+  "key": "provider_reported_asthma_adulthood",
+  "conceptID": 550090910,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

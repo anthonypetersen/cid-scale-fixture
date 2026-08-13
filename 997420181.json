@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_asthma_quarterly",
+  "conceptID": 997420181,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 693873814,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

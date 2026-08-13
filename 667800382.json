@@ -1,0 +1,14 @@
+{
+  "key": "type_of_alcohol_use_diagnostic",
+  "conceptID": 667800382,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 872839827,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "date_of_radiation_exposure_proxy_report",
+  "conceptID": 256961490,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    636537575,
+    339194018,
+    752850456,
+    775268192,
+    441467675
+  ]
+}

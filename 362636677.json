@@ -1,0 +1,12 @@
+{
+  "key": "frequency_of_arthritis_diagnostic",
+  "conceptID": 362636677,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

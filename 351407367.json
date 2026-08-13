@@ -1,0 +1,11 @@
+{
+  "key": "current_status_radiation_exposure_childhood",
+  "conceptID": 351407367,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

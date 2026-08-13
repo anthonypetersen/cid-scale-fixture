@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_alcohol_use_lifetime",
+  "conceptID": 847522128,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 557196660,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

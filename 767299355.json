@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_sleep_apnea_past_12_months",
+  "conceptID": 767299355,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 557196660,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

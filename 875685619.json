@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_smoking_self_report",
+  "conceptID": 875685619,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 363692473,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

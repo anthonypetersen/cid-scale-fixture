@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_diabetes_lifetime",
+  "conceptID": 602129219,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 557196660,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

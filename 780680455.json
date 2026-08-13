@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_surgery_diagnostic",
+  "conceptID": 780680455,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

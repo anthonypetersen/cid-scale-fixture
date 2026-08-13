@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_smoking_confirmed",
+  "conceptID": 110503449,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

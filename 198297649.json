@@ -1,0 +1,14 @@
+{
+  "key": "date_of_obesity_adulthood",
+  "conceptID": 198297649,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 935055910,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

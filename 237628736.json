@@ -1,0 +1,13 @@
+{
+  "key": "date_of_hospitalization_proxy_report",
+  "conceptID": 237628736,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_hypertension_screening",
+  "conceptID": 834780023,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 935055910,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

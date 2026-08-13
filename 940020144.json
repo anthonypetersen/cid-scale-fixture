@@ -1,0 +1,14 @@
+{
+  "key": "date_of_radiation_exposure_annual",
+  "conceptID": 940020144,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 723779304,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

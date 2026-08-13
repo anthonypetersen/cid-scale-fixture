@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_asthma_diagnostic",
+  "conceptID": 300554661,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 355786284,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

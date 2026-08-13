@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_pregnancy_proxy_report",
+  "conceptID": 212554152,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 167225166,
+  "responses": [
+    392907393,
+    616239373,
+    611916263,
+    530897153,
+    516961975
+  ]
+}

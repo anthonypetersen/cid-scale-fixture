@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_colonoscopy_adulthood",
+  "conceptID": 619193287,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

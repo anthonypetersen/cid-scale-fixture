@@ -1,0 +1,12 @@
+{
+  "key": "severity_of_surgery_proxy_report",
+  "conceptID": 525475836,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 723779304,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

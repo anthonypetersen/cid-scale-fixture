@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_red_meat_lifetime",
+  "conceptID": 431511516,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 167225166,
+  "responses": [
+    831230530,
+    770852606,
+    741306873,
+    200720551,
+    944986929
+  ]
+}

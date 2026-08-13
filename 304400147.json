@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_pregnancy_screening",
+  "conceptID": 304400147,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 355786284,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

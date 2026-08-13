@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_arthritis_adulthood",
+  "conceptID": 943531799,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 723779304,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

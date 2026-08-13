@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_radiation_exposure_post_enrollment",
+  "conceptID": 985520140,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 872839827,
+  "responses": [
+    334670354,
+    895095511,
+    923073275,
+    798096494,
+    457528658
+  ]
+}

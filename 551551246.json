@@ -1,0 +1,13 @@
+{
+  "key": "current_status_hospitalization_screening",
+  "conceptID": 551551246,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

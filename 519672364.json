@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_smoking_adulthood",
+  "conceptID": 519672364,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 557196660,
+  "responses": [
+    915666423,
+    935117361,
+    683315969,
+    752341326,
+    218256127
+  ]
+}

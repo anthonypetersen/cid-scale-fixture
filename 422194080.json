@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_chemotherapy_adulthood",
+  "conceptID": 422194080,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 872839827,
+  "responses": [
+    636537575,
+    339194018,
+    752850456,
+    775268192,
+    441467675
+  ]
+}

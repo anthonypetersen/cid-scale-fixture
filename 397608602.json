@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_oral_contraceptive_confirmed",
+  "conceptID": 397608602,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

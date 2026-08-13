@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_hospitalization_first_occurrence",
+  "conceptID": 864767272,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 693873814,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

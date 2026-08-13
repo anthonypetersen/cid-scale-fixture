@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_fruit_intake_post_enrollment",
+  "conceptID": 677664441,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 167225166,
+  "responses": [
+    654140840,
+    703035541,
+    345416748,
+    681474768,
+    824385722
+  ]
+}

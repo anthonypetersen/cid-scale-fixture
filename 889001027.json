@@ -1,0 +1,14 @@
+{
+  "key": "change_in_hypertension_current",
+  "conceptID": 889001027,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 935055910,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

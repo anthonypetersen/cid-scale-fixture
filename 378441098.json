@@ -1,0 +1,10 @@
+{
+  "key": "date_of_hospitalization_diagnostic",
+  "conceptID": 378441098,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

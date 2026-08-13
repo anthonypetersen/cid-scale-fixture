@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_chemotherapy_screening",
+  "conceptID": 319387296,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 872839827,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

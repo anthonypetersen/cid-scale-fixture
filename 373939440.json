@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_diabetes_post_enrollment",
+  "conceptID": 373939440,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 167225166,
+  "responses": [
+    767109432,
+    985012601,
+    258282528,
+    765066291,
+    761248402
+  ]
+}

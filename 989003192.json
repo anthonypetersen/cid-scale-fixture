@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_anxiety_current",
+  "conceptID": 989003192,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "responses": [
+    767109432,
+    985012601,
+    258282528,
+    765066291,
+    761248402
+  ]
+}

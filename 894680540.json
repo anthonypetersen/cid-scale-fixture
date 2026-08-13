@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_pregnancy_screening",
+  "conceptID": 894680540,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 167225166,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

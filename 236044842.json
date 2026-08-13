@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_breastfeeding_annual",
+  "conceptID": 236044842,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 355786284,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

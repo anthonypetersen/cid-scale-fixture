@@ -1,0 +1,14 @@
+{
+  "key": "type_of_asthma_lifetime",
+  "conceptID": 230364933,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 935055910,
+  "responses": [
+    789386364,
+    877605118,
+    636732737,
+    373307105,
+    160038132
+  ]
+}

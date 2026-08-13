@@ -1,0 +1,11 @@
+{
+  "key": "frequency_of_vegetable_intake_pre_enrollment",
+  "conceptID": 883320261,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 363692473,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

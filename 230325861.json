@@ -1,0 +1,12 @@
+{
+  "key": "provider_reported_sunscreen_use_adulthood",
+  "conceptID": 230325861,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 557196660,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

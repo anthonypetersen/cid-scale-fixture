@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_sun_exposure_quarterly",
+  "conceptID": 203620681,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 363692473,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

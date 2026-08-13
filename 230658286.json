@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_diabetes_first_occurrence",
+  "conceptID": 230658286,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 167225166,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

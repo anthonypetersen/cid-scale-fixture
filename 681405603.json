@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_asthma_first_occurrence",
+  "conceptID": 681405603,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "current_status_hypertension_quarterly",
+  "conceptID": 104758355,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

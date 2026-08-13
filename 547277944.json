@@ -1,0 +1,12 @@
+{
+  "key": "date_of_radiation_exposure_suspected",
+  "conceptID": 547277944,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

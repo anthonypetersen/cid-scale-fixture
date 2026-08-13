@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_anxiety_past_30_days",
+  "conceptID": 638976500,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 283771088,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

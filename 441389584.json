@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_diabetes_self_report",
+  "conceptID": 441389584,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 167225166,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

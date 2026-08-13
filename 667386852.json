@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_psa_test_annual",
+  "conceptID": 667386852,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 693873814,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

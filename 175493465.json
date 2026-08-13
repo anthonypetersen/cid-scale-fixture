@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_radiation_exposure_confirmed",
+  "conceptID": 175493465,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 693873814,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

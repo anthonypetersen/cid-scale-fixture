@@ -1,0 +1,14 @@
+{
+  "key": "type_of_skin_exam_lifetime",
+  "conceptID": 287734484,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 167225166,
+  "responses": [
+    767109432,
+    985012601,
+    258282528,
+    765066291,
+    761248402
+  ]
+}

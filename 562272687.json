@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_asthma_past_12_months",
+  "conceptID": 562272687,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

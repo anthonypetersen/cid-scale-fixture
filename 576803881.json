@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_colonoscopy_confirmed",
+  "conceptID": 576803881,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "responses": [
+    334670354,
+    895095511,
+    923073275,
+    798096494,
+    457528658
+  ]
+}

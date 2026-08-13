@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_vegetable_intake_past_12_months",
+  "conceptID": 319838483,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 355786284,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

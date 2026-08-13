@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_red_meat_current",
+  "conceptID": 634365547,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 872839827,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_vegetable_intake_lifetime",
+  "conceptID": 436334780,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 557196660,
+  "responses": [
+    636537575,
+    339194018,
+    752850456,
+    775268192,
+    441467675
+  ]
+}

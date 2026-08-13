@@ -1,0 +1,14 @@
+{
+  "key": "type_of_fruit_intake_lifetime",
+  "conceptID": 868777095,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 693873814,
+  "responses": [
+    992931137,
+    668876715,
+    647471737,
+    874983300,
+    131784751
+  ]
+}

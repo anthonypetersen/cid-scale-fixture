@@ -1,0 +1,11 @@
+{
+  "key": "change_in_alcohol_use_past_12_months",
+  "conceptID": 424164267,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "change_in_sun_exposure_quarterly",
+  "conceptID": 636737727,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 693873814,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

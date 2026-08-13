@@ -1,0 +1,14 @@
+{
+  "key": "type_of_surgery_diagnostic",
+  "conceptID": 724315422,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 872839827,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

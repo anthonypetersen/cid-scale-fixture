@@ -1,0 +1,11 @@
+{
+  "key": "date_of_smoking_first_occurrence",
+  "conceptID": 191286502,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 283771088,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

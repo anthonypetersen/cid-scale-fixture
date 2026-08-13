@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_radiation_exposure_pre_enrollment",
+  "conceptID": 247738585,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 723779304,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

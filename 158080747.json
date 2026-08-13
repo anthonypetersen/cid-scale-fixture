@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_red_meat_suspected",
+  "conceptID": 158080747,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 872839827,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

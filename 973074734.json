@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_pap_test_childhood",
+  "conceptID": 973074734,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 355786284,
+  "responses": [
+    796243591,
+    396830159,
+    524952828,
+    917499286,
+    717159169
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_mammogram_post_enrollment",
+  "conceptID": 775796721,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 363692473,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

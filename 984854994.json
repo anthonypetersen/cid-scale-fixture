@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_radiation_exposure_annual",
+  "conceptID": 984854994,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

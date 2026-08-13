@@ -1,0 +1,12 @@
+{
+  "key": "type_of_pregnancy_past_12_months",
+  "conceptID": 292665531,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

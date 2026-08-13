@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_vegetable_intake_suspected",
+  "conceptID": 179830610,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 283771088,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

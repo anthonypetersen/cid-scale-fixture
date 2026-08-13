@@ -1,0 +1,11 @@
+{
+  "key": "provider_reported_hormone_therapy_diagnostic",
+  "conceptID": 467374420,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

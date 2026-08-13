@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_colonoscopy_pre_enrollment",
+  "conceptID": 708886395,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 723779304,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

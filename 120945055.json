@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_hospitalization_screening",
+  "conceptID": 120945055,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 935055910,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

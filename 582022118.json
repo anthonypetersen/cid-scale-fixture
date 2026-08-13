@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_pregnancy_baseline",
+  "conceptID": 582022118,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 723779304,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

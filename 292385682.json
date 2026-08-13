@@ -1,0 +1,13 @@
+{
+  "key": "type_of_radiation_exposure_annual",
+  "conceptID": 292385682,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

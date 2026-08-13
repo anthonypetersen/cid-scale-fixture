@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_hormone_therapy_follow_up",
+  "conceptID": 806006847,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

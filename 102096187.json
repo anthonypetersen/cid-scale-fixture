@@ -1,0 +1,12 @@
+{
+  "key": "number_of_sunscreen_use_suspected",
+  "conceptID": 102096187,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

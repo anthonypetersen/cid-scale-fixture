@@ -1,0 +1,13 @@
+{
+  "key": "change_in_pregnancy_past_30_days",
+  "conceptID": 815205236,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "responses": [
+    389181428,
+    527555646,
+    349916958,
+    674374149,
+    420698544
+  ]
+}

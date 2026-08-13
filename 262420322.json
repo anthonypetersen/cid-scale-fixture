@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_asthma_adulthood",
+  "conceptID": 262420322,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 355786284,
+  "responses": [
+    392907393,
+    616239373,
+    611916263,
+    530897153,
+    516961975
+  ]
+}

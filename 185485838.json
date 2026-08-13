@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_surgery_confirmed",
+  "conceptID": 185485838,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    789386364,
+    877605118,
+    636732737,
+    373307105,
+    160038132
+  ]
+}

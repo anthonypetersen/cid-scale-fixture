@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_pap_test_post_enrollment",
+  "conceptID": 251235574,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

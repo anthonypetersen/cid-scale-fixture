@@ -1,0 +1,11 @@
+{
+  "key": "duration_of_anxiety_confirmed",
+  "conceptID": 246819051,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 872839827,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

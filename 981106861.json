@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_vegetable_intake_adulthood",
+  "conceptID": 981106861,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 723779304,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

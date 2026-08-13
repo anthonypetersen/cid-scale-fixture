@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_hormone_therapy_baseline",
+  "conceptID": 710113198,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

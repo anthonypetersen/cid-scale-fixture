@@ -1,0 +1,12 @@
+{
+  "key": "age_at_first_skin_exam_lifetime",
+  "conceptID": 609200058,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 355786284,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

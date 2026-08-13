@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_alcohol_use_quarterly",
+  "conceptID": 249462555,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 355786284,
+  "responses": [
+    767109432,
+    985012601,
+    258282528,
+    765066291,
+    761248402
+  ]
+}

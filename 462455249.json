@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_radiation_exposure_post_enrollment",
+  "conceptID": 462455249,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 935055910,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

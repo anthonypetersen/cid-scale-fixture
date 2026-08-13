@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_sleep_apnea_most_recent",
+  "conceptID": 336695285,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 363692473,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

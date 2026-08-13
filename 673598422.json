@@ -1,0 +1,12 @@
+{
+  "key": "date_of_pregnancy_suspected",
+  "conceptID": 673598422,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 935055910,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

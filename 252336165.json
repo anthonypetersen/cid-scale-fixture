@@ -1,0 +1,13 @@
+{
+  "key": "date_of_diabetes_confirmed",
+  "conceptID": 252336165,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "responses": [
+    295559422,
+    107175770,
+    866783021,
+    901631087,
+    799046183
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_sun_exposure_pre_enrollment",
+  "conceptID": 993965030,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 355786284,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

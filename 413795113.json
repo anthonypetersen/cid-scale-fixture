@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_asthma_self_report",
+  "conceptID": 413795113,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 167225166,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

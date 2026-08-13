@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_asthma_suspected",
+  "conceptID": 280657473,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 167225166,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

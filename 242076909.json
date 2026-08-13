@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_vegetable_intake_baseline",
+  "conceptID": 242076909,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 723779304,
+  "responses": [
+    458890394,
+    374691143,
+    227131343,
+    486423714,
+    252152928
+  ]
+}

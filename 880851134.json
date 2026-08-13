@@ -1,0 +1,12 @@
+{
+  "key": "current_status_hypertension_past_30_days",
+  "conceptID": 880851134,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_breastfeeding_pre_enrollment",
+  "conceptID": 138664685,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

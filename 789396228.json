@@ -1,0 +1,12 @@
+{
+  "key": "duration_of_oral_contraceptive_childhood",
+  "conceptID": 789396228,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 935055910,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

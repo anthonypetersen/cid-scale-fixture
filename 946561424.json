@@ -1,0 +1,14 @@
+{
+  "key": "current_status_obesity_pre_enrollment",
+  "conceptID": 946561424,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 935055910,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

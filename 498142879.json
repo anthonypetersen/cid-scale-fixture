@@ -1,0 +1,13 @@
+{
+  "key": "date_of_hypertension_self_report",
+  "conceptID": 498142879,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "duration_of_hypertension_annual",
+  "conceptID": 591930204,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 363692473,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

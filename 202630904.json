@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_mammogram_proxy_report",
+  "conceptID": 202630904,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

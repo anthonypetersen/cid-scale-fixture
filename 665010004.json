@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_asthma_proxy_report",
+  "conceptID": 665010004,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

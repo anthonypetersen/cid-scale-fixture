@@ -1,0 +1,12 @@
+{
+  "key": "self_reported_depression_confirmed",
+  "conceptID": 954517689,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 723779304,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

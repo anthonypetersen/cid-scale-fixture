@@ -1,0 +1,14 @@
+{
+  "key": "type_of_chemotherapy_first_occurrence",
+  "conceptID": 437325815,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 872839827,
+  "responses": [
+    283222050,
+    354828030,
+    415567240,
+    612435709,
+    906515953
+  ]
+}

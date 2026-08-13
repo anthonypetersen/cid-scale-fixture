@@ -1,0 +1,14 @@
+{
+  "key": "date_of_pap_test_diagnostic",
+  "conceptID": 614414160,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 363692473,
+  "responses": [
+    767109432,
+    985012601,
+    258282528,
+    765066291,
+    761248402
+  ]
+}

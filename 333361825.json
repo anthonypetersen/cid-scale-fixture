@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_radiation_exposure_quarterly",
+  "conceptID": 333361825,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 355786284,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

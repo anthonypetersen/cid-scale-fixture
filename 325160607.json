@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_radiation_exposure_adulthood",
+  "conceptID": 325160607,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 723779304,
+  "responses": [
+    283222050,
+    354828030,
+    415567240,
+    612435709,
+    906515953
+  ]
+}

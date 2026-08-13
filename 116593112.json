@@ -1,0 +1,14 @@
+{
+  "key": "number_of_diabetes_confirmed",
+  "conceptID": 116593112,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 167225166,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

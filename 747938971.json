@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_obesity_adulthood",
+  "conceptID": 747938971,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 935055910,
+  "responses": [
+    654140840,
+    703035541,
+    345416748,
+    681474768,
+    824385722
+  ]
+}

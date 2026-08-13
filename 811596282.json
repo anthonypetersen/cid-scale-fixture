@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_radiation_exposure_self_report",
+  "conceptID": 811596282,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 723779304,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_radiation_exposure_past_30_days",
+  "conceptID": 444472917,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 935055910,
+  "responses": [
+    654140840,
+    703035541,
+    345416748,
+    681474768,
+    824385722
+  ]
+}

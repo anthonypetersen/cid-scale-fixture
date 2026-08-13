@@ -1,0 +1,12 @@
+{
+  "key": "duration_of_mammogram_suspected",
+  "conceptID": 772330579,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

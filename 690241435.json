@@ -1,0 +1,11 @@
+{
+  "key": "type_of_hypertension_most_recent",
+  "conceptID": 690241435,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 283771088,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

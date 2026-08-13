@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_obesity_first_occurrence",
+  "conceptID": 658733299,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 872839827,
+  "responses": [
+    767109432,
+    985012601,
+    258282528,
+    765066291,
+    761248402
+  ]
+}

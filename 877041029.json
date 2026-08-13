@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_alcohol_use_annual",
+  "conceptID": 877041029,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

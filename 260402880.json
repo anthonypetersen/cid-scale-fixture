@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_pregnancy_screening",
+  "conceptID": 260402880,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_sleep_apnea_screening",
+  "conceptID": 129523112,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 363692473,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

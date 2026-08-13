@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_smoking_post_enrollment",
+  "conceptID": 778215230,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 693873814,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

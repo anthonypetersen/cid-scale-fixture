@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_skin_exam_current",
+  "conceptID": 112255514,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 355786284,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

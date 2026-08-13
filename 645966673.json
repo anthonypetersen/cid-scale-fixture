@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_surgery_baseline",
+  "conceptID": 645966673,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 167225166,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

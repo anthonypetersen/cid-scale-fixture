@@ -1,0 +1,13 @@
+{
+  "key": "change_in_diabetes_past_12_months",
+  "conceptID": 336973673,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 363692473,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

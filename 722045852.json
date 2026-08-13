@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_oral_contraceptive_annual",
+  "conceptID": 722045852,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "responses": [
+    371664488,
+    590792634,
+    807092097,
+    511394675,
+    149300166
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_obesity_follow_up",
+  "conceptID": 954986972,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 872839827,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

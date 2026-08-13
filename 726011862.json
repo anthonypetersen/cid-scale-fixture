@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_obesity_pre_enrollment",
+  "conceptID": 726011862,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

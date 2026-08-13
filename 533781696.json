@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_surgery_pre_enrollment",
+  "conceptID": 533781696,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

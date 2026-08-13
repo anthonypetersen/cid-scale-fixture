@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_surgery_past_30_days",
+  "conceptID": 789646172,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "responses": [
+    392907393,
+    616239373,
+    611916263,
+    530897153,
+    516961975
+  ]
+}

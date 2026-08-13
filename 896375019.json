@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_hospitalization_proxy_report",
+  "conceptID": 896375019,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_obesity_past_30_days",
+  "conceptID": 256624313,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 363692473,
+  "responses": [
+    392907393,
+    616239373,
+    611916263,
+    530897153,
+    516961975
+  ]
+}

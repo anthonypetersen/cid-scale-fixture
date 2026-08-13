@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_pap_test_quarterly",
+  "conceptID": 599059681,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 355786284,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

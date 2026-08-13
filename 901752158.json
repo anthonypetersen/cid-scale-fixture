@@ -1,0 +1,14 @@
+{
+  "key": "current_status_vegetable_intake_baseline",
+  "conceptID": 901752158,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 557196660,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

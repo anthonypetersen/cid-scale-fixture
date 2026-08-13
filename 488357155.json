@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_hospitalization_suspected",
+  "conceptID": 488357155,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 872839827,
+  "responses": [
+    389181428,
+    527555646,
+    349916958,
+    674374149,
+    420698544
+  ]
+}

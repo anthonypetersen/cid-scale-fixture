@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_alcohol_use_suspected",
+  "conceptID": 958377787,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

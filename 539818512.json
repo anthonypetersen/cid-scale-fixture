@@ -1,0 +1,12 @@
+{
+  "key": "frequency_of_pregnancy_post_enrollment",
+  "conceptID": 539818512,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

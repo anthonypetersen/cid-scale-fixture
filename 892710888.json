@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_alcohol_use_pre_enrollment",
+  "conceptID": 892710888,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 872839827,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

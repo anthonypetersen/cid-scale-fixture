@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_hormone_therapy_first_occurrence",
+  "conceptID": 723039388,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 872839827,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

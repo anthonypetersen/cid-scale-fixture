@@ -1,0 +1,11 @@
+{
+  "key": "type_of_radiation_exposure_diagnostic",
+  "conceptID": 378968072,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

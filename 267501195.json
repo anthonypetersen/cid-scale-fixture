@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_alcohol_use_past_30_days",
+  "conceptID": 267501195,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 935055910,
+  "responses": [
+    458890394,
+    374691143,
+    227131343,
+    486423714,
+    252152928
+  ]
+}

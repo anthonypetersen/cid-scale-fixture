@@ -1,0 +1,14 @@
+{
+  "key": "change_in_hormone_therapy_childhood",
+  "conceptID": 689318248,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 723779304,
+  "responses": [
+    283222050,
+    354828030,
+    415567240,
+    612435709,
+    906515953
+  ]
+}

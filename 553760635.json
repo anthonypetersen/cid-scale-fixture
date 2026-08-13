@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_fruit_intake_confirmed",
+  "conceptID": 553760635,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 935055910,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

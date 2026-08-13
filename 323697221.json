@@ -1,0 +1,12 @@
+{
+  "key": "severity_of_mammogram_pre_enrollment",
+  "conceptID": 323697221,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 355786284,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

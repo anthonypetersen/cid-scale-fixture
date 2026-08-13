@@ -1,0 +1,14 @@
+{
+  "key": "number_of_alcohol_use_self_report",
+  "conceptID": 463733183,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 935055910,
+  "responses": [
+    389181428,
+    527555646,
+    349916958,
+    674374149,
+    420698544
+  ]
+}

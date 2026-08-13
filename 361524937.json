@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_depression_pre_enrollment",
+  "conceptID": 361524937,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 872839827,
+  "responses": [
+    389181428,
+    527555646,
+    349916958,
+    674374149,
+    420698544
+  ]
+}

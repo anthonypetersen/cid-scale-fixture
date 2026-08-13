@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_obesity_current",
+  "conceptID": 322038010,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 693873814,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

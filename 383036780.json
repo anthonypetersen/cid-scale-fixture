@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_radiation_exposure_follow_up",
+  "conceptID": 383036780,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 355786284,
+  "responses": [
+    992931137,
+    668876715,
+    647471737,
+    874983300,
+    131784751
+  ]
+}

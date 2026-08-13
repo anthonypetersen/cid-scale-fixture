@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_oral_contraceptive_suspected",
+  "conceptID": 851775611,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 557196660,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

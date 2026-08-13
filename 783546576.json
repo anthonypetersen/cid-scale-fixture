@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_surgery_pre_enrollment",
+  "conceptID": 783546576,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 723779304,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "frequency_of_fruit_intake_suspected",
+  "conceptID": 614523272,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

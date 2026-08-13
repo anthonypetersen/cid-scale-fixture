@@ -1,0 +1,12 @@
+{
+  "key": "frequency_of_asthma_quarterly",
+  "conceptID": 267398759,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 935055910,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "number_of_oral_contraceptive_adulthood",
+  "conceptID": 282168357,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 723779304,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

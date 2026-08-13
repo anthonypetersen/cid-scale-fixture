@@ -1,0 +1,12 @@
+{
+  "key": "has_ever_hormone_therapy_self_report",
+  "conceptID": 844987193,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 355786284,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

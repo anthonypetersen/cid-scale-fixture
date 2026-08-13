@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_radiation_exposure_post_enrollment",
+  "conceptID": 641565826,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 283771088,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

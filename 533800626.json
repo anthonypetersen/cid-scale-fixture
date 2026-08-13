@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_hormone_therapy_pre_enrollment",
+  "conceptID": 533800626,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

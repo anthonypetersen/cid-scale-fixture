@@ -1,0 +1,13 @@
+{
+  "key": "date_of_surgery_self_report",
+  "conceptID": 859441729,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

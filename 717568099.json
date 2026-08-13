@@ -1,0 +1,14 @@
+{
+  "key": "change_in_colonoscopy_past_30_days",
+  "conceptID": 717568099,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 872839827,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

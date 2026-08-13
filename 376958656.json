@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_fruit_intake_post_enrollment",
+  "conceptID": 376958656,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 723779304,
+  "responses": [
+    334670354,
+    895095511,
+    923073275,
+    798096494,
+    457528658
+  ]
+}

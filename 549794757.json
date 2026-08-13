@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_radiation_exposure_baseline",
+  "conceptID": 549794757,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "responses": [
+    654140840,
+    703035541,
+    345416748,
+    681474768,
+    824385722
+  ]
+}

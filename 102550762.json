@@ -1,0 +1,13 @@
+{
+  "key": "current_status_radiation_exposure_current",
+  "conceptID": 102550762,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

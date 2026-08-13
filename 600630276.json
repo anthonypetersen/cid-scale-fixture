@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_fruit_intake_most_recent",
+  "conceptID": 600630276,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 723779304,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_obesity_pre_enrollment",
+  "conceptID": 762321363,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 712692038,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

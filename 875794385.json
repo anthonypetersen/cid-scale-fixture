@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_sun_exposure_past_12_months",
+  "conceptID": 875794385,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

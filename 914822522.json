@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_asthma_screening",
+  "conceptID": 914822522,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 283771088,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

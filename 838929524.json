@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_smoking_childhood",
+  "conceptID": 838929524,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 355786284,
+  "responses": [
+    384827418,
+    820707641,
+    769107373,
+    146227588,
+    129962388
+  ]
+}

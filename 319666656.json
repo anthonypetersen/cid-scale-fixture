@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_hypertension_post_enrollment",
+  "conceptID": 319666656,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

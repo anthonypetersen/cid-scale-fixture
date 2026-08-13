@@ -1,0 +1,14 @@
+{
+  "key": "date_of_hormone_therapy_annual",
+  "conceptID": 262626038,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 283771088,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

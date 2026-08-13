@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_fruit_intake_childhood",
+  "conceptID": 185224465,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 872839827,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

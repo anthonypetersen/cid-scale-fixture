@@ -1,0 +1,11 @@
+{
+  "key": "severity_of_pregnancy_adulthood",
+  "conceptID": 127703172,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

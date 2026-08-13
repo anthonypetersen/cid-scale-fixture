@@ -1,0 +1,14 @@
+{
+  "key": "current_status_hormone_therapy_confirmed",
+  "conceptID": 785305618,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 693873814,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

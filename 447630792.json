@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_vegetable_intake_lifetime",
+  "conceptID": 447630792,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 723779304,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

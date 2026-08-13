@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_obesity_screening",
+  "conceptID": 337842181,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

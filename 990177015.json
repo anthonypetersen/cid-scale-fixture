@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_hormone_therapy_diagnostic",
+  "conceptID": 990177015,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 872839827,
+  "responses": [
+    654140840,
+    703035541,
+    345416748,
+    681474768,
+    824385722
+  ]
+}

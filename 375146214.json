@@ -1,0 +1,14 @@
+{
+  "key": "current_status_fruit_intake_annual",
+  "conceptID": 375146214,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 872839827,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

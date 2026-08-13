@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_pregnancy_pre_enrollment",
+  "conceptID": 756156698,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

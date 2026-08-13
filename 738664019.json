@@ -1,0 +1,13 @@
+{
+  "key": "date_of_obesity_confirmed",
+  "conceptID": 738664019,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

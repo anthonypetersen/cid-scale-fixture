@@ -1,0 +1,11 @@
+{
+  "key": "self_reported_radiation_exposure_suspected",
+  "conceptID": 623196315,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 167225166,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

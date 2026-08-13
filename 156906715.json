@@ -1,0 +1,12 @@
+{
+  "key": "age_at_first_psa_test_adulthood",
+  "conceptID": 156906715,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 872839827,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

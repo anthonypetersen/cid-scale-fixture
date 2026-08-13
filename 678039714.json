@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_arthritis_current",
+  "conceptID": 678039714,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 363692473,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_oral_contraceptive_lifetime",
+  "conceptID": 199359822,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 872839827,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

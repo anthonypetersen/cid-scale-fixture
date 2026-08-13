@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hormone_therapy_post_enrollment",
+  "conceptID": 999933079,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 283771088,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

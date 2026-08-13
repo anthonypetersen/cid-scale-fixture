@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_fruit_intake_past_12_months",
+  "conceptID": 189068390,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 872839827,
+  "responses": [
+    458890394,
+    374691143,
+    227131343,
+    486423714,
+    252152928
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_pregnancy_follow_up",
+  "conceptID": 938123893,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 363692473,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

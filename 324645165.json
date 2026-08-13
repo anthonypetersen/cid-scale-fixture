@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_vaping_past_12_months",
+  "conceptID": 324645165,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 363692473,
+  "responses": [
+    295559422,
+    107175770,
+    866783021,
+    901631087,
+    799046183
+  ]
+}

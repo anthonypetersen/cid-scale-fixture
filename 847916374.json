@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_colonoscopy_pre_enrollment",
+  "conceptID": 847916374,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 167225166,
+  "responses": [
+    796243591,
+    396830159,
+    524952828,
+    917499286,
+    717159169
+  ]
+}

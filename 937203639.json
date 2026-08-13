@@ -1,0 +1,14 @@
+{
+  "key": "date_of_surgery_adulthood",
+  "conceptID": 937203639,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 283771088,
+  "responses": [
+    766118233,
+    793658884,
+    990262162,
+    327609846,
+    420452357
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "key": "severity_of_oral_contraceptive_childhood",
+  "conceptID": 773648936,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

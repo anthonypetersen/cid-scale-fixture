@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_hypertension_lifetime",
+  "conceptID": 129623980,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 872839827,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

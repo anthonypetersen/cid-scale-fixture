@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_pregnancy_screening",
+  "conceptID": 356098201,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 723779304,
+  "responses": [
+    654140840,
+    703035541,
+    345416748,
+    681474768,
+    824385722
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_anxiety_diagnostic",
+  "conceptID": 138526288,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 723779304,
+  "responses": [
+    384827418,
+    820707641,
+    769107373,
+    146227588,
+    129962388
+  ]
+}

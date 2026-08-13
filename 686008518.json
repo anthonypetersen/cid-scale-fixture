@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_vegetable_intake_follow_up",
+  "conceptID": 686008518,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 557196660,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_red_meat_first_occurrence",
+  "conceptID": 117537204,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 935055910,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

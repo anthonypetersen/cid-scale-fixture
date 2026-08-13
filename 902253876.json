@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_chemotherapy_self_report",
+  "conceptID": 902253876,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 693873814,
+  "responses": [
+    418632982,
+    473057226,
+    122006597,
+    732234716,
+    595024474
+  ]
+}

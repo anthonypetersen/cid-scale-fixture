@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_surgery_diagnostic",
+  "conceptID": 783375843,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 557196660,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

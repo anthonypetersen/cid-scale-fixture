@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_hormone_therapy_past_30_days",
+  "conceptID": 961651576,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "responses": [
+    295559422,
+    107175770,
+    866783021,
+    901631087,
+    799046183
+  ]
+}

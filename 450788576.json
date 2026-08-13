@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_hormone_therapy_pre_enrollment",
+  "conceptID": 450788576,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

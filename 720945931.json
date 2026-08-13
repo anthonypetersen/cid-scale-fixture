@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_anxiety_quarterly",
+  "conceptID": 720945931,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

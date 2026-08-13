@@ -1,0 +1,12 @@
+{
+  "key": "type_of_depression_baseline",
+  "conceptID": 979522229,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 167225166,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

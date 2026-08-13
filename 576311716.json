@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_surgery_childhood",
+  "conceptID": 576311716,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 355786284,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

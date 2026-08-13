@@ -1,0 +1,14 @@
+{
+  "key": "date_of_oral_contraceptive_childhood",
+  "conceptID": 977085393,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 723779304,
+  "responses": [
+    766118233,
+    793658884,
+    990262162,
+    327609846,
+    420452357
+  ]
+}

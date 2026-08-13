@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_sleep_apnea_baseline",
+  "conceptID": 455056219,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 693873814,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

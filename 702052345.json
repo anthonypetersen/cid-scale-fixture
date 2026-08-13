@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_sleep_apnea_past_12_months",
+  "conceptID": 702052345,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

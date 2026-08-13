@@ -1,0 +1,14 @@
+{
+  "key": "number_of_arthritis_diagnostic",
+  "conceptID": 191510018,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 723779304,
+  "responses": [
+    384827418,
+    820707641,
+    769107373,
+    146227588,
+    129962388
+  ]
+}

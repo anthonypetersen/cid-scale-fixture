@@ -1,0 +1,11 @@
+{
+  "key": "has_ever_oral_contraceptive_current",
+  "conceptID": 943486727,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

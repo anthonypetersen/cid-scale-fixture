@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_sunscreen_use_past_30_days",
+  "conceptID": 801186908,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 872839827,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

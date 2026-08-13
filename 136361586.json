@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_pap_test_past_30_days",
+  "conceptID": 136361586,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 167225166,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

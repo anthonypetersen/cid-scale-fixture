@@ -1,0 +1,14 @@
+{
+  "key": "current_status_chemotherapy_adulthood",
+  "conceptID": 897498878,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 283771088,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

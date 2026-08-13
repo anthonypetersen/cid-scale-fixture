@@ -1,0 +1,14 @@
+{
+  "key": "change_in_diabetes_post_enrollment",
+  "conceptID": 607585693,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 363692473,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

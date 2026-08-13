@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_oral_contraceptive_current",
+  "conceptID": 858147616,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 712692038,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

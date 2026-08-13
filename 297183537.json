@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_sun_exposure_lifetime",
+  "conceptID": 297183537,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 283771088,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

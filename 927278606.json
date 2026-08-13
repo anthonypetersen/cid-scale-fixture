@@ -1,0 +1,10 @@
+{
+  "key": "confidence_in_pap_test_self_report",
+  "conceptID": 927278606,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "change_in_hormone_therapy_screening",
+  "conceptID": 397717045,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 935055910,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

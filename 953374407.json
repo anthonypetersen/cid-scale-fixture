@@ -1,0 +1,13 @@
+{
+  "key": "change_in_surgery_diagnostic",
+  "conceptID": 953374407,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 693873814,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

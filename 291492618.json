@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hormone_therapy_baseline",
+  "conceptID": 291492618,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 557196660,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

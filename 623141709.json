@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_oral_contraceptive_lifetime",
+  "conceptID": 623141709,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 935055910,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

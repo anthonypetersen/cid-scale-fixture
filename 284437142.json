@@ -1,0 +1,11 @@
+{
+  "key": "age_at_first_vaping_lifetime",
+  "conceptID": 284437142,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 723779304,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_oral_contraceptive_first_occurrence",
+  "conceptID": 880772700,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

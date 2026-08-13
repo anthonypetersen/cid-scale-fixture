@@ -1,0 +1,11 @@
+{
+  "key": "confidence_in_vegetable_intake_self_report",
+  "conceptID": 699532083,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 935055910,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

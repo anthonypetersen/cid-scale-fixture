@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_alcohol_use_lifetime",
+  "conceptID": 800796462,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 723779304,
+  "responses": [
+    418632982,
+    473057226,
+    122006597,
+    732234716,
+    595024474
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "key": "frequency_of_obesity_past_30_days",
+  "conceptID": 249410668,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 363692473,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

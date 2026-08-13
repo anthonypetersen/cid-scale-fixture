@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_radiation_exposure_baseline",
+  "conceptID": 651681285,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_fruit_intake_confirmed",
+  "conceptID": 878009745,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 355786284,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

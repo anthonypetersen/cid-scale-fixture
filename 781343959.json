@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_hospitalization_lifetime",
+  "conceptID": 781343959,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

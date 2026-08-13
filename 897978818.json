@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_sun_exposure_quarterly",
+  "conceptID": 897978818,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 872839827,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

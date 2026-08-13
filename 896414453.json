@@ -1,0 +1,12 @@
+{
+  "key": "provider_reported_arthritis_childhood",
+  "conceptID": 896414453,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

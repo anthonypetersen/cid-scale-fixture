@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_smoking_diagnostic",
+  "conceptID": 344519289,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 935055910,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_alcohol_use_pre_enrollment",
+  "conceptID": 209709358,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 355786284,
+  "responses": [
+    766118233,
+    793658884,
+    990262162,
+    327609846,
+    420452357
+  ]
+}

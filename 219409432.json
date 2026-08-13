@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_arthritis_quarterly",
+  "conceptID": 219409432,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 935055910,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

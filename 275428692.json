@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_hormone_therapy_past_12_months",
+  "conceptID": 275428692,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

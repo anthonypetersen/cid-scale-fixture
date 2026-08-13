@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_pregnancy_baseline",
+  "conceptID": 203527537,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 283771088,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_radiation_exposure_adulthood",
+  "conceptID": 590676771,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 723779304,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_depression_most_recent",
+  "conceptID": 752518171,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 355786284,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

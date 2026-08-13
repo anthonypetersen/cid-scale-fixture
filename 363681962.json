@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_vegetable_intake_quarterly",
+  "conceptID": 363681962,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 935055910,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

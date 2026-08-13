@@ -1,0 +1,11 @@
+{
+  "key": "provider_reported_vaping_screening",
+  "conceptID": 410741416,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

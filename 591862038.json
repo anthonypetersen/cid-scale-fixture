@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_vegetable_intake_confirmed",
+  "conceptID": 591862038,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 712692038,
+  "responses": [
+    766118233,
+    793658884,
+    990262162,
+    327609846,
+    420452357
+  ]
+}

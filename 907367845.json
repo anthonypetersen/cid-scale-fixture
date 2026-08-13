@@ -1,0 +1,14 @@
+{
+  "key": "type_of_sun_exposure_first_occurrence",
+  "conceptID": 907367845,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 872839827,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

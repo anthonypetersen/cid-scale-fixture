@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_alcohol_use_current",
+  "conceptID": 678366208,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 935055910,
+  "responses": [
+    767109432,
+    985012601,
+    258282528,
+    765066291,
+    761248402
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_sunscreen_use_post_enrollment",
+  "conceptID": 787424351,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_vegetable_intake_past_12_months",
+  "conceptID": 415180156,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 283771088,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "date_of_surgery_past_30_days",
+  "conceptID": 815081958,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 723779304,
+  "responses": [
+    796243591,
+    396830159,
+    524952828,
+    917499286,
+    717159169
+  ]
+}

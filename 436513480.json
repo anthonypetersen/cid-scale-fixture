@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_skin_exam_baseline",
+  "conceptID": 436513480,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 723779304,
+  "responses": [
+    458890394,
+    374691143,
+    227131343,
+    486423714,
+    252152928
+  ]
+}

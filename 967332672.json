@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_exercise_self_report",
+  "conceptID": 967332672,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 167225166,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

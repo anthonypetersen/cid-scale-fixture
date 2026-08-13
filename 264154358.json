@@ -1,0 +1,12 @@
+{
+  "key": "age_at_first_vaping_post_enrollment",
+  "conceptID": 264154358,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 167225166,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

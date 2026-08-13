@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_red_meat_past_30_days",
+  "conceptID": 508109298,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

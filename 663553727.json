@@ -1,0 +1,11 @@
+{
+  "key": "reason_for_smoking_past_30_days",
+  "conceptID": 663553727,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_fruit_intake_screening",
+  "conceptID": 882256873,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 693873814,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

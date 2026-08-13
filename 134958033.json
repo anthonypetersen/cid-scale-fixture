@@ -1,0 +1,12 @@
+{
+  "key": "type_of_breastfeeding_past_12_months",
+  "conceptID": 134958033,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 723779304,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

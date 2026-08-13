@@ -1,0 +1,12 @@
+{
+  "key": "severity_of_red_meat_post_enrollment",
+  "conceptID": 446268449,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 283771088,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

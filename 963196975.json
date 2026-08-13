@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_hospitalization_diagnostic",
+  "conceptID": 963196975,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    418632982,
+    473057226,
+    122006597,
+    732234716,
+    595024474
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_alcohol_use_suspected",
+  "conceptID": 875699379,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

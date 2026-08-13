@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hospitalization_current",
+  "conceptID": 515458096,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 935055910,
+  "responses": [
+    636537575,
+    339194018,
+    752850456,
+    775268192,
+    441467675
+  ]
+}

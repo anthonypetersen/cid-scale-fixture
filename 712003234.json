@@ -1,0 +1,14 @@
+{
+  "key": "number_of_skin_exam_diagnostic",
+  "conceptID": 712003234,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 935055910,
+  "responses": [
+    334670354,
+    895095511,
+    923073275,
+    798096494,
+    457528658
+  ]
+}

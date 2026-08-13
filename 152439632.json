@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_oral_contraceptive_post_enrollment",
+  "conceptID": 152439632,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 712692038,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

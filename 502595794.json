@@ -1,0 +1,14 @@
+{
+  "key": "date_of_pregnancy_screening",
+  "conceptID": 502595794,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 872839827,
+  "responses": [
+    252928918,
+    556841667,
+    581696763,
+    249399207,
+    555332466
+  ]
+}

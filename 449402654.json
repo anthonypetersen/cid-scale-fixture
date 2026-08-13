@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_diabetes_pre_enrollment",
+  "conceptID": 449402654,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

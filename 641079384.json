@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_sleep_apnea_diagnostic",
+  "conceptID": 641079384,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 935055910,
+  "responses": [
+    418632982,
+    473057226,
+    122006597,
+    732234716,
+    595024474
+  ]
+}

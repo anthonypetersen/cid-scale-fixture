@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_mammogram_diagnostic",
+  "conceptID": 429387088,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "type_of_sun_exposure_baseline",
+  "conceptID": 939316758,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 167225166,
+  "responses": [
+    283222050,
+    354828030,
+    415567240,
+    612435709,
+    906515953
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_hypertension_past_12_months",
+  "conceptID": 127600592,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_colonoscopy_proxy_report",
+  "conceptID": 620157193,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 693873814,
+  "responses": [
+    767109432,
+    985012601,
+    258282528,
+    765066291,
+    761248402
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_oral_contraceptive_childhood",
+  "conceptID": 142744147,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 167225166,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

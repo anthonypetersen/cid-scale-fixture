@@ -1,0 +1,13 @@
+{
+  "key": "date_of_vegetable_intake_quarterly",
+  "conceptID": 828160497,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

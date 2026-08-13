@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_breastfeeding_proxy_report",
+  "conceptID": 501789532,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 283771088,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

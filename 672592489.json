@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_fruit_intake_past_30_days",
+  "conceptID": 672592489,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 363692473,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

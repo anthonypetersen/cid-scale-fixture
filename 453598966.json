@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_exercise_post_enrollment",
+  "conceptID": 453598966,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 557196660,
+  "responses": [
+    371664488,
+    590792634,
+    807092097,
+    511394675,
+    149300166
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_surgery_self_report",
+  "conceptID": 467343365,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 723779304,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

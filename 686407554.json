@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_anxiety_diagnostic",
+  "conceptID": 686407554,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 723779304,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

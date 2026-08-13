@@ -1,0 +1,12 @@
+{
+  "key": "severity_of_sleep_apnea_past_30_days",
+  "conceptID": 315578112,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

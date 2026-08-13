@@ -1,0 +1,14 @@
+{
+  "key": "date_of_red_meat_baseline",
+  "conceptID": 624459597,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 557196660,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

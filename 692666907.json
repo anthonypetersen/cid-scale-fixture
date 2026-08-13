@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_vegetable_intake_self_report",
+  "conceptID": 692666907,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 723779304,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

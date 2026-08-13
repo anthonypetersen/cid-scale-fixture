@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_breastfeeding_proxy_report",
+  "conceptID": 771227277,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

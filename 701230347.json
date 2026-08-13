@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_mammogram_past_30_days",
+  "conceptID": 701230347,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 557196660,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

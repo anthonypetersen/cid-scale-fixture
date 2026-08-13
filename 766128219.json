@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_alcohol_use_lifetime",
+  "conceptID": 766128219,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 283771088,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

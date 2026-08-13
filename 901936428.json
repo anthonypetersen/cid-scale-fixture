@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_vaping_post_enrollment",
+  "conceptID": 901936428,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 693873814,
+  "responses": [
+    295559422,
+    107175770,
+    866783021,
+    901631087,
+    799046183
+  ]
+}

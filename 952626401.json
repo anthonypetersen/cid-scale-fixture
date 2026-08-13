@@ -1,0 +1,14 @@
+{
+  "key": "change_in_radiation_exposure_self_report",
+  "conceptID": 952626401,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 557196660,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

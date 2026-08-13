@@ -1,0 +1,12 @@
+{
+  "key": "date_of_diabetes_most_recent",
+  "conceptID": 398211399,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 693873814,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

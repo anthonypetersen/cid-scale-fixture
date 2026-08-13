@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_alcohol_use_screening",
+  "conceptID": 233698603,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 167225166,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

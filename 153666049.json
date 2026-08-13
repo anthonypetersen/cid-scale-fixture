@@ -1,0 +1,12 @@
+{
+  "key": "last_occurrence_pregnancy_pre_enrollment",
+  "conceptID": 153666049,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 557196660,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

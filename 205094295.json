@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_skin_exam_past_30_days",
+  "conceptID": 205094295,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

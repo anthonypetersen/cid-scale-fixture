@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_hospitalization_post_enrollment",
+  "conceptID": 947003514,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "responses": [
+    283222050,
+    354828030,
+    415567240,
+    612435709,
+    906515953
+  ]
+}

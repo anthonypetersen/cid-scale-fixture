@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_vegetable_intake_post_enrollment",
+  "conceptID": 659350887,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 557196660,
+  "responses": [
+    767109432,
+    985012601,
+    258282528,
+    765066291,
+    761248402
+  ]
+}

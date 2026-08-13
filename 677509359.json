@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_red_meat_first_occurrence",
+  "conceptID": 677509359,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 557196660,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

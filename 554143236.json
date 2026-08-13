@@ -1,0 +1,14 @@
+{
+  "key": "date_of_surgery_baseline",
+  "conceptID": 554143236,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 363692473,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

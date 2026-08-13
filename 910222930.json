@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_depression_lifetime",
+  "conceptID": 910222930,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 283771088,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

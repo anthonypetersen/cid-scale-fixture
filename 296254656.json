@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_alcohol_use_proxy_report",
+  "conceptID": 296254656,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

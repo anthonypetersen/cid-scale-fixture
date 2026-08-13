@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_vegetable_intake_proxy_report",
+  "conceptID": 922878516,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 167225166,
+  "responses": [
+    252928918,
+    556841667,
+    581696763,
+    249399207,
+    555332466
+  ]
+}

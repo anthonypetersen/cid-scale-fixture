@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_hypertension_lifetime",
+  "conceptID": 257035962,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 723779304,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

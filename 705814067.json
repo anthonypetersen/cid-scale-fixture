@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_pregnancy_diagnostic",
+  "conceptID": 705814067,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 872839827,
+  "responses": [
+    767109432,
+    985012601,
+    258282528,
+    765066291,
+    761248402
+  ]
+}

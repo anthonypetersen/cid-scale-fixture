@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_oral_contraceptive_first_occurrence",
+  "conceptID": 413569895,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

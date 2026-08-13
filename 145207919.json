@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_breastfeeding_baseline",
+  "conceptID": 145207919,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 872839827,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

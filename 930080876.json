@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_hypertension_adulthood",
+  "conceptID": 930080876,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 935055910,
+  "responses": [
+    796243591,
+    396830159,
+    524952828,
+    917499286,
+    717159169
+  ]
+}

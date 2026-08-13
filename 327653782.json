@@ -1,0 +1,12 @@
+{
+  "key": "severity_of_oral_contraceptive_baseline",
+  "conceptID": 327653782,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 167225166,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

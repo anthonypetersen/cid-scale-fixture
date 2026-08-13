@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_fruit_intake_proxy_report",
+  "conceptID": 410022158,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 167225166,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "number_of_hospitalization_screening",
+  "conceptID": 926891640,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 355786284,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

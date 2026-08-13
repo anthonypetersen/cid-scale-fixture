@@ -1,0 +1,14 @@
+{
+  "key": "date_of_radiation_exposure_diagnostic",
+  "conceptID": 164754316,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 283771088,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

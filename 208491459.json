@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_hormone_therapy_quarterly",
+  "conceptID": 208491459,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "responses": [
+    295559422,
+    107175770,
+    866783021,
+    901631087,
+    799046183
+  ]
+}

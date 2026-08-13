@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_obesity_post_enrollment",
+  "conceptID": 818072771,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 355786284,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

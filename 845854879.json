@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_pregnancy_pre_enrollment",
+  "conceptID": 845854879,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 355786284,
+  "responses": [
+    334670354,
+    895095511,
+    923073275,
+    798096494,
+    457528658
+  ]
+}

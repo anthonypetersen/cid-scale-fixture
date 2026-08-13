@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hypertension_past_12_months",
+  "conceptID": 580654994,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 557196660,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

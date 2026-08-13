@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_skin_exam_diagnostic",
+  "conceptID": 247117927,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 355786284,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

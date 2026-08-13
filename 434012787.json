@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_radiation_exposure_childhood",
+  "conceptID": 434012787,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

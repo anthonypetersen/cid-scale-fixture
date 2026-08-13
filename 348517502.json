@@ -1,0 +1,12 @@
+{
+  "key": "age_at_first_mammogram_past_30_days",
+  "conceptID": 348517502,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "key": "last_occurrence_arthritis_diagnostic",
+  "conceptID": 878464383,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 872839827,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

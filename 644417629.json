@@ -1,0 +1,14 @@
+{
+  "key": "date_of_radiation_exposure_adulthood",
+  "conceptID": 644417629,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 872839827,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

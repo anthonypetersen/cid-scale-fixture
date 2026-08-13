@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_pregnancy_baseline",
+  "conceptID": 883298153,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    371664488,
+    590792634,
+    807092097,
+    511394675,
+    149300166
+  ]
+}

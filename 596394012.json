@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_pap_test_past_30_days",
+  "conceptID": 596394012,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

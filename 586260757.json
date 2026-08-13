@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_arthritis_lifetime",
+  "conceptID": 586260757,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 872839827,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

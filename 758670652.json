@@ -1,0 +1,13 @@
+{
+  "key": "type_of_radiation_exposure_past_30_days",
+  "conceptID": 758670652,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

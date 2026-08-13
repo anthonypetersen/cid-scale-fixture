@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_arthritis_diagnostic",
+  "conceptID": 159804879,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 693873814,
+  "responses": [
+    384827418,
+    820707641,
+    769107373,
+    146227588,
+    129962388
+  ]
+}

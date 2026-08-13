@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_exercise_pre_enrollment",
+  "conceptID": 163347808,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 872839827,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

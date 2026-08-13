@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_pregnancy_annual",
+  "conceptID": 676110481,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "responses": [
+    334670354,
+    895095511,
+    923073275,
+    798096494,
+    457528658
+  ]
+}

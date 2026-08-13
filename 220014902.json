@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_diabetes_lifetime",
+  "conceptID": 220014902,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 283771088,
+  "responses": [
+    992931137,
+    668876715,
+    647471737,
+    874983300,
+    131784751
+  ]
+}

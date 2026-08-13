@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_sleep_apnea_screening",
+  "conceptID": 731877308,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 167225166,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

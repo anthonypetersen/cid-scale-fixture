@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_hormone_therapy_diagnostic",
+  "conceptID": 556915960,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 557196660,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

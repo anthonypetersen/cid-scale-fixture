@@ -1,0 +1,14 @@
+{
+  "key": "type_of_hospitalization_diagnostic",
+  "conceptID": 992585340,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 363692473,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

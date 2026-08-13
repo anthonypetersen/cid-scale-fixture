@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_radiation_exposure_past_30_days",
+  "conceptID": 358478969,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "responses": [
+    458890394,
+    374691143,
+    227131343,
+    486423714,
+    252152928
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_sun_exposure_past_30_days",
+  "conceptID": 335290496,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

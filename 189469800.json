@@ -1,0 +1,13 @@
+{
+  "key": "current_status_obesity_quarterly",
+  "conceptID": 189469800,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 355786284,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

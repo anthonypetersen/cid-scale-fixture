@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_hypertension_most_recent",
+  "conceptID": 493095586,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 935055910,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_arthritis_past_30_days",
+  "conceptID": 682079884,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 557196660,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

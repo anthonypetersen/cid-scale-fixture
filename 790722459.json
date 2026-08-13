@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_arthritis_current",
+  "conceptID": 790722459,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 355786284,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

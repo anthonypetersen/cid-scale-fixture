@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_asthma_proxy_report",
+  "conceptID": 388188238,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 557196660,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

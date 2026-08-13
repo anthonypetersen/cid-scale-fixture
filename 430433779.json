@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_diabetes_current",
+  "conceptID": 430433779,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 167225166,
+  "responses": [
+    458890394,
+    374691143,
+    227131343,
+    486423714,
+    252152928
+  ]
+}

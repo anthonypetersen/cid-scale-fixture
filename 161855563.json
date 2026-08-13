@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_skin_exam_proxy_report",
+  "conceptID": 161855563,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_colonoscopy_post_enrollment",
+  "conceptID": 465700010,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 872839827,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

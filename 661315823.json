@@ -1,0 +1,14 @@
+{
+  "key": "date_of_diabetes_diagnostic",
+  "conceptID": 661315823,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 167225166,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

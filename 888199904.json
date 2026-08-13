@@ -1,0 +1,13 @@
+{
+  "key": "change_in_hospitalization_self_report",
+  "conceptID": 888199904,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_obesity_confirmed",
+  "conceptID": 908964154,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 557196660,
+  "responses": [
+    371664488,
+    590792634,
+    807092097,
+    511394675,
+    149300166
+  ]
+}

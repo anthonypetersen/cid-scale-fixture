@@ -1,0 +1,12 @@
+{
+  "key": "date_of_hospitalization_post_enrollment",
+  "conceptID": 667204228,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

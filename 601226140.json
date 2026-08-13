@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_alcohol_use_past_30_days",
+  "conceptID": 601226140,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    796243591,
+    396830159,
+    524952828,
+    917499286,
+    717159169
+  ]
+}

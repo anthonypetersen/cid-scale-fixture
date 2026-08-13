@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_sun_exposure_adulthood",
+  "conceptID": 239199760,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 363692473,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

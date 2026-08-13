@@ -1,0 +1,14 @@
+{
+  "key": "current_status_oral_contraceptive_childhood",
+  "conceptID": 916329086,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 872839827,
+  "responses": [
+    796243591,
+    396830159,
+    524952828,
+    917499286,
+    717159169
+  ]
+}

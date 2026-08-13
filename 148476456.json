@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_pregnancy_first_occurrence",
+  "conceptID": 148476456,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 283771088,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

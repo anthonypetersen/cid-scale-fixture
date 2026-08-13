@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_hospitalization_baseline",
+  "conceptID": 292553689,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 693873814,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

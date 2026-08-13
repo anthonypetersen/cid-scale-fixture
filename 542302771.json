@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_hypertension_lifetime",
+  "conceptID": 542302771,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 355786284,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

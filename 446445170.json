@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_mammogram_suspected",
+  "conceptID": 446445170,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

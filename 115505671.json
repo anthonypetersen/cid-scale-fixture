@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_smoking_lifetime",
+  "conceptID": 115505671,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 363692473,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

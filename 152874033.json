@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_surgery_follow_up",
+  "conceptID": 152874033,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 723779304,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

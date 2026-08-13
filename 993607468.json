@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_smoking_diagnostic",
+  "conceptID": 993607468,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 935055910,
+  "responses": [
+    654140840,
+    703035541,
+    345416748,
+    681474768,
+    824385722
+  ]
+}

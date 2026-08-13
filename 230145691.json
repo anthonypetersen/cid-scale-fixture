@@ -1,0 +1,14 @@
+{
+  "key": "date_of_hypertension_childhood",
+  "conceptID": 230145691,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 712692038,
+  "responses": [
+    392907393,
+    616239373,
+    611916263,
+    530897153,
+    516961975
+  ]
+}

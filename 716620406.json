@@ -1,0 +1,14 @@
+{
+  "key": "date_of_radiation_exposure_past_12_months",
+  "conceptID": 716620406,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 872839827,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

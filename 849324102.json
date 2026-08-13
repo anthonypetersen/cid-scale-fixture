@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_alcohol_use_lifetime",
+  "conceptID": 849324102,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

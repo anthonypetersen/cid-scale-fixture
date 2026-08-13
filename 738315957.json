@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_sleep_apnea_annual",
+  "conceptID": 738315957,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

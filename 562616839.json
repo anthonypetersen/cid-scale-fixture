@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_pregnancy_past_30_days",
+  "conceptID": 562616839,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_vegetable_intake_past_12_months",
+  "conceptID": 565141636,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "responses": [
+    334670354,
+    895095511,
+    923073275,
+    798096494,
+    457528658
+  ]
+}

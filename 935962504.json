@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_red_meat_confirmed",
+  "conceptID": 935962504,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 355786284,
+  "responses": [
+    992931137,
+    668876715,
+    647471737,
+    874983300,
+    131784751
+  ]
+}

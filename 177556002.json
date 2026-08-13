@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_radiation_exposure_screening",
+  "conceptID": 177556002,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 872839827,
+  "responses": [
+    418632982,
+    473057226,
+    122006597,
+    732234716,
+    595024474
+  ]
+}

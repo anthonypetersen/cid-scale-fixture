@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_sunscreen_use_annual",
+  "conceptID": 928049575,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 355786284,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

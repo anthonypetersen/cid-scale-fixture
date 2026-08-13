@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_pregnancy_first_occurrence",
+  "conceptID": 246583947,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 935055910,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

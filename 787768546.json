@@ -1,0 +1,12 @@
+{
+  "key": "severity_of_sunscreen_use_childhood",
+  "conceptID": 787768546,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 355786284,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

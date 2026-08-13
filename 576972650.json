@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_mammogram_adulthood",
+  "conceptID": 576972650,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 935055910,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

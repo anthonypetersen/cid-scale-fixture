@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_sleep_apnea_follow_up",
+  "conceptID": 501335260,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 723779304,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

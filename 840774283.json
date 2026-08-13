@@ -1,0 +1,10 @@
+{
+  "key": "duration_of_mammogram_lifetime",
+  "conceptID": 840774283,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

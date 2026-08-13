@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_asthma_current",
+  "conceptID": 777461908,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 723779304,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

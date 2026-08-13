@@ -1,0 +1,14 @@
+{
+  "key": "number_of_surgery_screening",
+  "conceptID": 215854350,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 935055910,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

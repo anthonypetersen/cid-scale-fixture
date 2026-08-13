@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_depression_past_12_months",
+  "conceptID": 600567477,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

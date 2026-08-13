@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_colonoscopy_screening",
+  "conceptID": 724079943,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 355786284,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

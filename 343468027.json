@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_psa_test_past_30_days",
+  "conceptID": 343468027,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

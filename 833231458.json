@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_sun_exposure_past_30_days",
+  "conceptID": 833231458,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 167225166,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

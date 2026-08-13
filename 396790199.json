@@ -1,0 +1,13 @@
+{
+  "key": "type_of_sun_exposure_pre_enrollment",
+  "conceptID": 396790199,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

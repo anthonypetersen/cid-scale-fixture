@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_arthritis_suspected",
+  "conceptID": 140546226,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 693873814,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

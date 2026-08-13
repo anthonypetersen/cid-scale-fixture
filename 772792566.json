@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_pregnancy_pre_enrollment",
+  "conceptID": 772792566,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_colonoscopy_confirmed",
+  "conceptID": 158296864,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 723779304,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

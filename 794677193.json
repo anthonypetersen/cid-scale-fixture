@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_vegetable_intake_diagnostic",
+  "conceptID": 794677193,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 167225166,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

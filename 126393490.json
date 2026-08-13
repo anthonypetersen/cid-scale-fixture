@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_obesity_diagnostic",
+  "conceptID": 126393490,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_diabetes_annual",
+  "conceptID": 180352101,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "responses": [
+    796243591,
+    396830159,
+    524952828,
+    917499286,
+    717159169
+  ]
+}

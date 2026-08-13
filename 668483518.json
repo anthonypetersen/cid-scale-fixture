@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_diabetes_suspected",
+  "conceptID": 668483518,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 167225166,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

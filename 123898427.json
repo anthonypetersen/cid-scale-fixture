@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_hospitalization_baseline",
+  "conceptID": 123898427,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    636537575,
+    339194018,
+    752850456,
+    775268192,
+    441467675
+  ]
+}

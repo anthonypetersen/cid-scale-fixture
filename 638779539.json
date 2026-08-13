@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_depression_pre_enrollment",
+  "conceptID": 638779539,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 723779304,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

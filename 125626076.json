@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_hormone_therapy_pre_enrollment",
+  "conceptID": 125626076,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 693873814,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_sun_exposure_first_occurrence",
+  "conceptID": 318623183,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 693873814,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "type_of_hormone_therapy_post_enrollment",
+  "conceptID": 830120419,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 557196660,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

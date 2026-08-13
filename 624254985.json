@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_alcohol_use_baseline",
+  "conceptID": 624254985,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 693873814,
+  "responses": [
+    789386364,
+    877605118,
+    636732737,
+    373307105,
+    160038132
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "type_of_chemotherapy_baseline",
+  "conceptID": 820994372,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

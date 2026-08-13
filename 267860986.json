@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_colonoscopy_pre_enrollment",
+  "conceptID": 267860986,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 872839827,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

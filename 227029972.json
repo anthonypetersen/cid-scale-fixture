@@ -1,0 +1,14 @@
+{
+  "key": "date_of_diabetes_screening",
+  "conceptID": 227029972,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 557196660,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

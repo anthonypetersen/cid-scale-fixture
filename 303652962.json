@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_vegetable_intake_lifetime",
+  "conceptID": 303652962,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 872839827,
+  "responses": [
+    789386364,
+    877605118,
+    636732737,
+    373307105,
+    160038132
+  ]
+}

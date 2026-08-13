@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_chemotherapy_past_12_months",
+  "conceptID": 707151877,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

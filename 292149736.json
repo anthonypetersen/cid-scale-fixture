@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_colonoscopy_childhood",
+  "conceptID": 292149736,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

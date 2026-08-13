@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_diabetes_diagnostic",
+  "conceptID": 612613765,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "responses": [
+    392907393,
+    616239373,
+    611916263,
+    530897153,
+    516961975
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "change_in_hypertension_lifetime",
+  "conceptID": 684092097,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 283771088,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

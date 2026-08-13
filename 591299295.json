@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_exercise_past_12_months",
+  "conceptID": 591299295,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 935055910,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

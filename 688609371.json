@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_chemotherapy_proxy_report",
+  "conceptID": 688609371,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

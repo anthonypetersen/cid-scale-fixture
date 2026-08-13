@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_hypertension_past_30_days",
+  "conceptID": 520584903,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

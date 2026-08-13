@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_pregnancy_suspected",
+  "conceptID": 844686348,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "responses": [
+    392907393,
+    616239373,
+    611916263,
+    530897153,
+    516961975
+  ]
+}

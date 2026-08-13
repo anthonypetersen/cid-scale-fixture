@@ -1,0 +1,12 @@
+{
+  "key": "reason_for_obesity_first_occurrence",
+  "conceptID": 420003465,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

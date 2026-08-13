@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_diabetes_lifetime",
+  "conceptID": 355509011,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 355786284,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

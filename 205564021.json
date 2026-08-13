@@ -1,0 +1,11 @@
+{
+  "key": "severity_of_anxiety_suspected",
+  "conceptID": 205564021,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 363692473,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "date_of_mammogram_follow_up",
+  "conceptID": 958374095,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

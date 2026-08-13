@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_obesity_childhood",
+  "conceptID": 885080439,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

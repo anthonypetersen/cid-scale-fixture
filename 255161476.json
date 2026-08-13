@@ -1,0 +1,11 @@
+{
+  "key": "provider_reported_smoking_lifetime",
+  "conceptID": 255161476,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 723779304,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

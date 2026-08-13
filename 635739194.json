@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_asthma_current",
+  "conceptID": 635739194,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

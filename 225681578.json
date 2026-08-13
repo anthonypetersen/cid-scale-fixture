@@ -1,0 +1,12 @@
+{
+  "key": "severity_of_obesity_post_enrollment",
+  "conceptID": 225681578,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

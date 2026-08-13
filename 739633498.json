@@ -1,0 +1,12 @@
+{
+  "key": "duration_of_hypertension_post_enrollment",
+  "conceptID": 739633498,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

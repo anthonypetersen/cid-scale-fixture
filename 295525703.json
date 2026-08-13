@@ -1,0 +1,13 @@
+{
+  "key": "number_of_surgery_past_12_months",
+  "conceptID": 295525703,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

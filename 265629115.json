@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_hospitalization_childhood",
+  "conceptID": 265629115,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 693873814,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

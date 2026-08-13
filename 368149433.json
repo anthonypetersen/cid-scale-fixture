@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_depression_past_30_days",
+  "conceptID": 368149433,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

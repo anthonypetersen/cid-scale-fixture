@@ -1,0 +1,11 @@
+{
+  "key": "severity_of_radiation_exposure_confirmed",
+  "conceptID": 111254713,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

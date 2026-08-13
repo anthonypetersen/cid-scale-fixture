@@ -1,0 +1,14 @@
+{
+  "key": "number_of_hypertension_proxy_report",
+  "conceptID": 305705213,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 693873814,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

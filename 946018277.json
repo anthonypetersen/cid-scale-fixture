@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_radiation_exposure_quarterly",
+  "conceptID": 946018277,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 872839827,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

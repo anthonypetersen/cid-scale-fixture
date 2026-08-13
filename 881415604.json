@@ -1,0 +1,13 @@
+{
+  "key": "type_of_surgery_follow_up",
+  "conceptID": 881415604,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

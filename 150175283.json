@@ -1,0 +1,14 @@
+{
+  "key": "change_in_obesity_confirmed",
+  "conceptID": 150175283,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 557196660,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

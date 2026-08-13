@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_surgery_baseline",
+  "conceptID": 514991745,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 363692473,
+  "responses": [
+    767109432,
+    985012601,
+    258282528,
+    765066291,
+    761248402
+  ]
+}

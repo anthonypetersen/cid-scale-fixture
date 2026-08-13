@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_asthma_adulthood",
+  "conceptID": 126227667,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 557196660,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

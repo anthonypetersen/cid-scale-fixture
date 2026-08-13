@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_asthma_annual",
+  "conceptID": 646430145,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    767109432,
+    985012601,
+    258282528,
+    765066291,
+    761248402
+  ]
+}

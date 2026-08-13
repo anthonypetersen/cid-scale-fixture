@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_pregnancy_baseline",
+  "conceptID": 140064278,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 872839827,
+  "responses": [
+    384827418,
+    820707641,
+    769107373,
+    146227588,
+    129962388
+  ]
+}

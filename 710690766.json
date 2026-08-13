@@ -1,0 +1,12 @@
+{
+  "key": "type_of_asthma_annual",
+  "conceptID": 710690766,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_skin_exam_self_report",
+  "conceptID": 632851659,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 935055910,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

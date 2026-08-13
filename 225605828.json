@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_pregnancy_annual",
+  "conceptID": 225605828,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 363692473,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

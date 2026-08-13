@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_hospitalization_post_enrollment",
+  "conceptID": 488037000,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

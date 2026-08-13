@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_surgery_pre_enrollment",
+  "conceptID": 592024486,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

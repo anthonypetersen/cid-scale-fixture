@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_hospitalization_baseline",
+  "conceptID": 582333807,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

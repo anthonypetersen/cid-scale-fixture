@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_mammogram_follow_up",
+  "conceptID": 765461669,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 557196660,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

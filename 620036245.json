@@ -1,0 +1,12 @@
+{
+  "key": "current_status_fruit_intake_post_enrollment",
+  "conceptID": 620036245,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 167225166,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "has_ever_mammogram_pre_enrollment",
+  "conceptID": 680630637,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 712692038,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

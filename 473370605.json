@@ -1,0 +1,12 @@
+{
+  "key": "self_reported_surgery_confirmed",
+  "conceptID": 473370605,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 363692473,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

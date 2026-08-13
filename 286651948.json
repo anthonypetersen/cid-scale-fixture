@@ -1,0 +1,11 @@
+{
+  "key": "severity_of_anxiety_childhood",
+  "conceptID": 286651948,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 693873814,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

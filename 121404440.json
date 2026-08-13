@@ -1,0 +1,12 @@
+{
+  "key": "has_ever_chemotherapy_confirmed",
+  "conceptID": 121404440,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

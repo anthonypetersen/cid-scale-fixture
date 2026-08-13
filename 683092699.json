@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_hormone_therapy_suspected",
+  "conceptID": 683092699,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 723779304,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

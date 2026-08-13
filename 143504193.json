@@ -1,0 +1,10 @@
+{
+  "key": "provider_reported_pregnancy_adulthood",
+  "conceptID": 143504193,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

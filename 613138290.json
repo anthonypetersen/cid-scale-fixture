@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_mammogram_quarterly",
+  "conceptID": 613138290,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 355786284,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_hormone_therapy_past_12_months",
+  "conceptID": 140918718,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "responses": [
+    458890394,
+    374691143,
+    227131343,
+    486423714,
+    252152928
+  ]
+}

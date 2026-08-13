@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_arthritis_past_12_months",
+  "conceptID": 416967337,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 935055910,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

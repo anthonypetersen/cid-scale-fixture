@@ -1,0 +1,14 @@
+{
+  "key": "type_of_vegetable_intake_suspected",
+  "conceptID": 877095674,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 693873814,
+  "responses": [
+    392907393,
+    616239373,
+    611916263,
+    530897153,
+    516961975
+  ]
+}

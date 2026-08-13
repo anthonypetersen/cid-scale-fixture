@@ -1,0 +1,12 @@
+{
+  "key": "duration_of_colonoscopy_confirmed",
+  "conceptID": 249100846,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

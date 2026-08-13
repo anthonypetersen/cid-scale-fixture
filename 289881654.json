@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_surgery_suspected",
+  "conceptID": 289881654,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 557196660,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

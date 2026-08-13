@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_alcohol_use_screening",
+  "conceptID": 217146588,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 355786284,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

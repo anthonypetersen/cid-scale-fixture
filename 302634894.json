@@ -1,0 +1,11 @@
+{
+  "key": "severity_of_smoking_current",
+  "conceptID": 302634894,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

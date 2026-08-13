@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_obesity_first_occurrence",
+  "conceptID": 584051798,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    392907393,
+    616239373,
+    611916263,
+    530897153,
+    516961975
+  ]
+}

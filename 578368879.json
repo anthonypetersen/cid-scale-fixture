@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_surgery_current",
+  "conceptID": 578368879,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 712692038,
+  "responses": [
+    831230530,
+    770852606,
+    741306873,
+    200720551,
+    944986929
+  ]
+}

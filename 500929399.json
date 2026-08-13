@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_pap_test_adulthood",
+  "conceptID": 500929399,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 872839827,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

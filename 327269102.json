@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_sunscreen_use_past_30_days",
+  "conceptID": 327269102,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 872839827,
+  "responses": [
+    915666423,
+    935117361,
+    683315969,
+    752341326,
+    218256127
+  ]
+}

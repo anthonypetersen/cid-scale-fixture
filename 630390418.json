@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_colonoscopy_proxy_report",
+  "conceptID": 630390418,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 167225166,
+  "responses": [
+    392907393,
+    616239373,
+    611916263,
+    530897153,
+    516961975
+  ]
+}

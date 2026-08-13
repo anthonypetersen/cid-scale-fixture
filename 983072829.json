@@ -1,0 +1,13 @@
+{
+  "key": "date_of_arthritis_lifetime",
+  "conceptID": 983072829,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "responses": [
+    283222050,
+    354828030,
+    415567240,
+    612435709,
+    906515953
+  ]
+}

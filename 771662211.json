@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_surgery_follow_up",
+  "conceptID": 771662211,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 167225166,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_fruit_intake_proxy_report",
+  "conceptID": 688393952,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

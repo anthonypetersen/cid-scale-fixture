@@ -1,0 +1,14 @@
+{
+  "key": "type_of_sleep_apnea_childhood",
+  "conceptID": 341002800,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 355786284,
+  "responses": [
+    392907393,
+    616239373,
+    611916263,
+    530897153,
+    516961975
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "current_status_colonoscopy_follow_up",
+  "conceptID": 507557671,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

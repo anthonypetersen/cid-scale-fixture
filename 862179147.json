@@ -1,0 +1,10 @@
+{
+  "key": "reason_for_sleep_apnea_first_occurrence",
+  "conceptID": 862179147,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

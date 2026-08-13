@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_skin_exam_suspected",
+  "conceptID": 776124899,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 935055910,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

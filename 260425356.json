@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_breastfeeding_screening",
+  "conceptID": 260425356,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 283771088,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_sleep_apnea_diagnostic",
+  "conceptID": 406701213,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    796243591,
+    396830159,
+    524952828,
+    917499286,
+    717159169
+  ]
+}

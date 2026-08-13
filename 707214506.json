@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_sun_exposure_annual",
+  "conceptID": 707214506,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 283771088,
+  "responses": [
+    384827418,
+    820707641,
+    769107373,
+    146227588,
+    129962388
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_sleep_apnea_pre_enrollment",
+  "conceptID": 620145685,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 283771088,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

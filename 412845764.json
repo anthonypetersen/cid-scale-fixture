@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_fruit_intake_diagnostic",
+  "conceptID": 412845764,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    796243591,
+    396830159,
+    524952828,
+    917499286,
+    717159169
+  ]
+}

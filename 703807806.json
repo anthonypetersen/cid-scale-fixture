@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_sleep_apnea_childhood",
+  "conceptID": 703807806,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 283771088,
+  "responses": [
+    252928918,
+    556841667,
+    581696763,
+    249399207,
+    555332466
+  ]
+}

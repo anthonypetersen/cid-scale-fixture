@@ -1,0 +1,14 @@
+{
+  "key": "change_in_vegetable_intake_first_occurrence",
+  "conceptID": 606667976,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 363692473,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

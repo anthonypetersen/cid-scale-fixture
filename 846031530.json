@@ -1,0 +1,12 @@
+{
+  "key": "number_of_diabetes_quarterly",
+  "conceptID": 846031530,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 872839827,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

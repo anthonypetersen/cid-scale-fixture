@@ -1,0 +1,14 @@
+{
+  "key": "change_in_alcohol_use_childhood",
+  "conceptID": 373331647,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 723779304,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

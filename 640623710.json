@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_anxiety_annual",
+  "conceptID": 640623710,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 167225166,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

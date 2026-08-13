@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hospitalization_screening",
+  "conceptID": 902714656,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 363692473,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

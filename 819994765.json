@@ -1,0 +1,14 @@
+{
+  "key": "number_of_sleep_apnea_adulthood",
+  "conceptID": 819994765,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 723779304,
+  "responses": [
+    384827418,
+    820707641,
+    769107373,
+    146227588,
+    129962388
+  ]
+}

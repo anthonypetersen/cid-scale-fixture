@@ -1,0 +1,13 @@
+{
+  "key": "number_of_breastfeeding_diagnostic",
+  "conceptID": 462574918,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "responses": [
+    458890394,
+    374691143,
+    227131343,
+    486423714,
+    252152928
+  ]
+}

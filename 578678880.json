@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_vegetable_intake_pre_enrollment",
+  "conceptID": 578678880,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

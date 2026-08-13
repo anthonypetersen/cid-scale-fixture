@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_radiation_exposure_most_recent",
+  "conceptID": 123961627,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 167225166,
+  "responses": [
+    796243591,
+    396830159,
+    524952828,
+    917499286,
+    717159169
+  ]
+}

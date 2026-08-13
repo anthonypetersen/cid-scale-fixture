@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_diabetes_quarterly",
+  "conceptID": 280306078,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    458890394,
+    374691143,
+    227131343,
+    486423714,
+    252152928
+  ]
+}

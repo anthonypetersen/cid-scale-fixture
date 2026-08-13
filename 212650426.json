@@ -1,0 +1,14 @@
+{
+  "key": "date_of_vaping_annual",
+  "conceptID": 212650426,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 723779304,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

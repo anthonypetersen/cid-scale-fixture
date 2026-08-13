@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_hypertension_annual",
+  "conceptID": 250741439,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 935055910,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

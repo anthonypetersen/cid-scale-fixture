@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_alcohol_use_quarterly",
+  "conceptID": 112479522,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 872839827,
+  "responses": [
+    371664488,
+    590792634,
+    807092097,
+    511394675,
+    149300166
+  ]
+}

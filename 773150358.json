@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_alcohol_use_diagnostic",
+  "conceptID": 773150358,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

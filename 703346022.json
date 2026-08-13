@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_sleep_apnea_quarterly",
+  "conceptID": 703346022,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_colonoscopy_annual",
+  "conceptID": 837127257,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 872839827,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

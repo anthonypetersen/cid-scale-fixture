@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_asthma_follow_up",
+  "conceptID": 136170501,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 363692473,
+  "responses": [
+    915666423,
+    935117361,
+    683315969,
+    752341326,
+    218256127
+  ]
+}

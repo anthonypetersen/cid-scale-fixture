@@ -1,0 +1,11 @@
+{
+  "key": "reason_for_hormone_therapy_quarterly",
+  "conceptID": 650029657,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

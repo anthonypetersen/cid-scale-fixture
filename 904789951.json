@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_diabetes_lifetime",
+  "conceptID": 904789951,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 363692473,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

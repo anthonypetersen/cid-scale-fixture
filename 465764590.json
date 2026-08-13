@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_fruit_intake_diagnostic",
+  "conceptID": 465764590,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 693873814,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

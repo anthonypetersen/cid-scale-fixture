@@ -1,0 +1,14 @@
+{
+  "key": "date_of_skin_exam_adulthood",
+  "conceptID": 601709102,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 557196660,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

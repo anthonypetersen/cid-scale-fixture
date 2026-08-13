@@ -1,0 +1,13 @@
+{
+  "key": "change_in_hypertension_confirmed",
+  "conceptID": 703363061,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

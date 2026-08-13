@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_oral_contraceptive_post_enrollment",
+  "conceptID": 511509149,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    789386364,
+    877605118,
+    636732737,
+    373307105,
+    160038132
+  ]
+}

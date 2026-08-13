@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_oral_contraceptive_diagnostic",
+  "conceptID": 987737648,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    636537575,
+    339194018,
+    752850456,
+    775268192,
+    441467675
+  ]
+}

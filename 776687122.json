@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_oral_contraceptive_current",
+  "conceptID": 776687122,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

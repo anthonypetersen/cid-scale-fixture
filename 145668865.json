@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_chemotherapy_childhood",
+  "conceptID": 145668865,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 557196660,
+  "responses": [
+    252928918,
+    556841667,
+    581696763,
+    249399207,
+    555332466
+  ]
+}

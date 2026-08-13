@@ -1,0 +1,13 @@
+{
+  "key": "date_of_pregnancy_pre_enrollment",
+  "conceptID": 506710002,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    389181428,
+    527555646,
+    349916958,
+    674374149,
+    420698544
+  ]
+}

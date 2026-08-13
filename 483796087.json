@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_hypertension_adulthood",
+  "conceptID": 483796087,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    767109432,
+    985012601,
+    258282528,
+    765066291,
+    761248402
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "self_reported_hormone_therapy_past_30_days",
+  "conceptID": 243110629,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

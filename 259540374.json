@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_vaping_baseline",
+  "conceptID": 259540374,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 363692473,
+  "responses": [
+    283222050,
+    354828030,
+    415567240,
+    612435709,
+    906515953
+  ]
+}

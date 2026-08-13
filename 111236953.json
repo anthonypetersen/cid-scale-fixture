@@ -1,0 +1,12 @@
+{
+  "key": "duration_of_oral_contraceptive_confirmed",
+  "conceptID": 111236953,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

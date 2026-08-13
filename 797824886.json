@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_vaping_annual",
+  "conceptID": 797824886,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 723779304,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

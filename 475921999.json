@@ -1,0 +1,14 @@
+{
+  "key": "number_of_pap_test_annual",
+  "conceptID": 475921999,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 363692473,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "change_in_asthma_suspected",
+  "conceptID": 837991030,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 712692038,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

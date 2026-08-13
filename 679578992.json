@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_mammogram_post_enrollment",
+  "conceptID": 679578992,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 557196660,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

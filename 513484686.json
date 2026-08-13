@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_smoking_proxy_report",
+  "conceptID": 513484686,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 355786284,
+  "responses": [
+    636537575,
+    339194018,
+    752850456,
+    775268192,
+    441467675
+  ]
+}

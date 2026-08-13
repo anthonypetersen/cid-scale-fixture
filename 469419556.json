@@ -1,0 +1,14 @@
+{
+  "key": "type_of_hypertension_current",
+  "conceptID": 469419556,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 355786284,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

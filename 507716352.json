@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_depression_past_12_months",
+  "conceptID": 507716352,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 557196660,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

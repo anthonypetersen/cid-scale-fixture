@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_sleep_apnea_childhood",
+  "conceptID": 834420999,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_mammogram_adulthood",
+  "conceptID": 558520489,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

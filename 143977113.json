@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_exercise_pre_enrollment",
+  "conceptID": 143977113,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 557196660,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "number_of_vegetable_intake_quarterly",
+  "conceptID": 531426209,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 723779304,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

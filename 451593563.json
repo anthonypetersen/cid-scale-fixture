@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_surgery_lifetime",
+  "conceptID": 451593563,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 283771088,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

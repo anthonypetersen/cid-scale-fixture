@@ -1,0 +1,12 @@
+{
+  "key": "severity_of_breastfeeding_most_recent",
+  "conceptID": 670915573,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 355786284,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

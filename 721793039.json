@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_sunscreen_use_quarterly",
+  "conceptID": 721793039,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

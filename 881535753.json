@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_diabetes_confirmed",
+  "conceptID": 881535753,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 355786284,
+  "responses": [
+    392907393,
+    616239373,
+    611916263,
+    530897153,
+    516961975
+  ]
+}

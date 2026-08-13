@@ -1,0 +1,11 @@
+{
+  "key": "age_at_first_breastfeeding_proxy_report",
+  "conceptID": 740980446,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

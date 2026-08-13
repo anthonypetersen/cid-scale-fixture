@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_fruit_intake_most_recent",
+  "conceptID": 314220038,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 167225166,
+  "responses": [
+    371664488,
+    590792634,
+    807092097,
+    511394675,
+    149300166
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "date_of_arthritis_post_enrollment",
+  "conceptID": 392256098,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_sunscreen_use_pre_enrollment",
+  "conceptID": 103717865,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    371664488,
+    590792634,
+    807092097,
+    511394675,
+    149300166
+  ]
+}

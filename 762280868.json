@@ -1,0 +1,14 @@
+{
+  "key": "change_in_hormone_therapy_pre_enrollment",
+  "conceptID": 762280868,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 355786284,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

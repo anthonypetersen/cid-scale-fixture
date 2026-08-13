@@ -1,0 +1,11 @@
+{
+  "key": "confidence_in_mammogram_annual",
+  "conceptID": 590466388,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

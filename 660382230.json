@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_pap_test_self_report",
+  "conceptID": 660382230,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 935055910,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

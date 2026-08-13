@@ -1,0 +1,12 @@
+{
+  "key": "change_in_alcohol_use_suspected",
+  "conceptID": 987452231,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

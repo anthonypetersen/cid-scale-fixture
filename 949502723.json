@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_depression_adulthood",
+  "conceptID": 949502723,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 167225166,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

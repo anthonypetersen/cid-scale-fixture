@@ -1,0 +1,14 @@
+{
+  "key": "type_of_skin_exam_past_30_days",
+  "conceptID": 325280730,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 283771088,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

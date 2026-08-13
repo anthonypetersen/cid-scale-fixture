@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_skin_exam_baseline",
+  "conceptID": 727623180,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 723779304,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

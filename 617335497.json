@@ -1,0 +1,14 @@
+{
+  "key": "change_in_radiation_exposure_screening",
+  "conceptID": 617335497,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 355786284,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

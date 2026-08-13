@@ -1,0 +1,12 @@
+{
+  "key": "has_ever_vegetable_intake_pre_enrollment",
+  "conceptID": 795395979,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

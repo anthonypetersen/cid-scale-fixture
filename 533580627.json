@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_radiation_exposure_follow_up",
+  "conceptID": 533580627,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 355786284,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

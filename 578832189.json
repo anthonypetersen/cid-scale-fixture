@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_smoking_pre_enrollment",
+  "conceptID": 578832189,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 935055910,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

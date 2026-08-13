@@ -1,0 +1,12 @@
+{
+  "key": "confidence_in_sun_exposure_proxy_report",
+  "conceptID": 929757075,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 363692473,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

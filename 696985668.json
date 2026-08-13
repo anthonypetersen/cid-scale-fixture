@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_pregnancy_follow_up",
+  "conceptID": 696985668,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

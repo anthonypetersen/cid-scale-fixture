@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_hormone_therapy_adulthood",
+  "conceptID": 722713659,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 355786284,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

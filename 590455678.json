@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_vegetable_intake_pre_enrollment",
+  "conceptID": 590455678,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 872839827,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

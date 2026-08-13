@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_mammogram_most_recent",
+  "conceptID": 316367529,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

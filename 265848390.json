@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_chemotherapy_pre_enrollment",
+  "conceptID": 265848390,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 872839827,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

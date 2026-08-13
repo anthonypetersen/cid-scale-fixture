@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_pregnancy_pre_enrollment",
+  "conceptID": 958551263,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 363692473,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

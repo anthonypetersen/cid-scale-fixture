@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_obesity_proxy_report",
+  "conceptID": 836079781,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

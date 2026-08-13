@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_vegetable_intake_baseline",
+  "conceptID": 688274656,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 355786284,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

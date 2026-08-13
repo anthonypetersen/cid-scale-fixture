@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_hospitalization_most_recent",
+  "conceptID": 880852196,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 283771088,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

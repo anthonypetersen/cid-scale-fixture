@@ -1,0 +1,13 @@
+{
+  "key": "date_of_hormone_therapy_current",
+  "conceptID": 966348915,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

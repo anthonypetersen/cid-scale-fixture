@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_surgery_annual",
+  "conceptID": 441625434,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

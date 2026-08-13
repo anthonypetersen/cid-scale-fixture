@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hormone_therapy_screening",
+  "conceptID": 573411466,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 557196660,
+  "responses": [
+    767109432,
+    985012601,
+    258282528,
+    765066291,
+    761248402
+  ]
+}

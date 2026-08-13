@@ -1,0 +1,14 @@
+{
+  "key": "date_of_hypertension_confirmed",
+  "conceptID": 779965592,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 283771088,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

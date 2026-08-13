@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_pregnancy_current",
+  "conceptID": 517462835,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 935055910,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

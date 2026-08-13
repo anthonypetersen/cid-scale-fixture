@@ -1,0 +1,13 @@
+{
+  "key": "type_of_colonoscopy_diagnostic",
+  "conceptID": 581530788,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

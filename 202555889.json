@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_vegetable_intake_childhood",
+  "conceptID": 202555889,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 693873814,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

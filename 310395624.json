@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_anxiety_screening",
+  "conceptID": 310395624,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 935055910,
+  "responses": [
+    371664488,
+    590792634,
+    807092097,
+    511394675,
+    149300166
+  ]
+}

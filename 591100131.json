@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_vegetable_intake_adulthood",
+  "conceptID": 591100131,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

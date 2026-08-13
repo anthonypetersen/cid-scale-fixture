@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_diabetes_adulthood",
+  "conceptID": 227917235,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 355786284,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

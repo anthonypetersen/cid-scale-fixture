@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_alcohol_use_baseline",
+  "conceptID": 509631861,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 723779304,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

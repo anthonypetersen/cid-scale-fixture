@@ -1,0 +1,14 @@
+{
+  "key": "current_status_asthma_childhood",
+  "conceptID": 384314179,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 872839827,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

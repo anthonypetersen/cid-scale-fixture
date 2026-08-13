@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_oral_contraceptive_follow_up",
+  "conceptID": 388087001,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 363692473,
+  "responses": [
+    766118233,
+    793658884,
+    990262162,
+    327609846,
+    420452357
+  ]
+}

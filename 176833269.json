@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_skin_exam_suspected",
+  "conceptID": 176833269,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    767109432,
+    985012601,
+    258282528,
+    765066291,
+    761248402
+  ]
+}

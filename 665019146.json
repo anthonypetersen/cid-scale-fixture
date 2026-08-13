@@ -1,0 +1,13 @@
+{
+  "key": "type_of_surgery_quarterly",
+  "conceptID": 665019146,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

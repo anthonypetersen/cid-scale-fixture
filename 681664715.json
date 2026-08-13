@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_asthma_past_30_days",
+  "conceptID": 681664715,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 557196660,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

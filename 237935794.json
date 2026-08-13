@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_pap_test_self_report",
+  "conceptID": 237935794,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 872839827,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

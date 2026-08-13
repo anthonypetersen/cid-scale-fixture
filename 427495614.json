@@ -1,0 +1,13 @@
+{
+  "key": "date_of_hospitalization_self_report",
+  "conceptID": 427495614,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

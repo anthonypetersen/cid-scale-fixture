@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_oral_contraceptive_self_report",
+  "conceptID": 702401769,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

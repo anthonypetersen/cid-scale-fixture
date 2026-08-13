@@ -1,0 +1,12 @@
+{
+  "key": "frequency_of_colonoscopy_lifetime",
+  "conceptID": 289542447,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

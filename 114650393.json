@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_breastfeeding_childhood",
+  "conceptID": 114650393,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 693873814,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

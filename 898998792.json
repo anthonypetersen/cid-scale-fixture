@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_red_meat_quarterly",
+  "conceptID": 898998792,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 355786284,
+  "responses": [
+    371664488,
+    590792634,
+    807092097,
+    511394675,
+    149300166
+  ]
+}

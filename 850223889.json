@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_anxiety_past_30_days",
+  "conceptID": 850223889,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

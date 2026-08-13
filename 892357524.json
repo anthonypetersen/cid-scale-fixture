@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_alcohol_use_proxy_report",
+  "conceptID": 892357524,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

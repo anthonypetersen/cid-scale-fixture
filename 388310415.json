@@ -1,0 +1,14 @@
+{
+  "key": "number_of_vaping_confirmed",
+  "conceptID": 388310415,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 723779304,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

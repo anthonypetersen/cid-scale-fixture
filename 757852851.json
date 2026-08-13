@@ -1,0 +1,14 @@
+{
+  "key": "date_of_vegetable_intake_current",
+  "conceptID": 757852851,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 355786284,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

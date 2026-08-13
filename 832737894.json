@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_depression_baseline",
+  "conceptID": 832737894,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 723779304,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

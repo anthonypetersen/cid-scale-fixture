@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_hypertension_lifetime",
+  "conceptID": 603974087,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 872839827,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

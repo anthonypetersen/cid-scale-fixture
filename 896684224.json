@@ -1,0 +1,14 @@
+{
+  "key": "number_of_sleep_apnea_diagnostic",
+  "conceptID": 896684224,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 872839827,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

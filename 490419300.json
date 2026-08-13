@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_oral_contraceptive_quarterly",
+  "conceptID": 490419300,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 935055910,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

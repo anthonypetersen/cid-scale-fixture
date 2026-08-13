@@ -1,0 +1,14 @@
+{
+  "key": "date_of_surgery_proxy_report",
+  "conceptID": 128667257,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 693873814,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

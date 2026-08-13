@@ -1,0 +1,11 @@
+{
+  "key": "confidence_in_pap_test_diagnostic",
+  "conceptID": 233741086,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 935055910,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

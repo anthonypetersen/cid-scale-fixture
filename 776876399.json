@@ -1,0 +1,11 @@
+{
+  "key": "self_reported_arthritis_post_enrollment",
+  "conceptID": 776876399,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

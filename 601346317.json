@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_hypertension_annual",
+  "conceptID": 601346317,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

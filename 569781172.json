@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_hormone_therapy_lifetime",
+  "conceptID": 569781172,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

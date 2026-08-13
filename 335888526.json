@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_arthritis_lifetime",
+  "conceptID": 335888526,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 283771088,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

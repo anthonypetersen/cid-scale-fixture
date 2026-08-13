@@ -1,0 +1,14 @@
+{
+  "key": "current_status_smoking_lifetime",
+  "conceptID": 965403199,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 283771088,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

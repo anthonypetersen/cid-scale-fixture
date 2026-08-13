@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_colonoscopy_past_30_days",
+  "conceptID": 311673949,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 935055910,
+  "responses": [
+    384827418,
+    820707641,
+    769107373,
+    146227588,
+    129962388
+  ]
+}

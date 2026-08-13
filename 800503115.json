@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_hypertension_quarterly",
+  "conceptID": 800503115,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 557196660,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

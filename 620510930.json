@@ -1,0 +1,14 @@
+{
+  "key": "change_in_mammogram_lifetime",
+  "conceptID": 620510930,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 355786284,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

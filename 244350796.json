@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_radiation_exposure_quarterly",
+  "conceptID": 244350796,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 693873814,
+  "responses": [
+    992931137,
+    668876715,
+    647471737,
+    874983300,
+    131784751
+  ]
+}

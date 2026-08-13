@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_hypertension_follow_up",
+  "conceptID": 489146330,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 935055910,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

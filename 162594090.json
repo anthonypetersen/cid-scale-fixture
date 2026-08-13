@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_exercise_past_30_days",
+  "conceptID": 162594090,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 935055910,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

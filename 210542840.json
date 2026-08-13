@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_obesity_diagnostic",
+  "conceptID": 210542840,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 167225166,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_obesity_adulthood",
+  "conceptID": 728214205,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 557196660,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

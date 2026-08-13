@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_radiation_exposure_lifetime",
+  "conceptID": 957941736,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "sourceConceptId": 872839827,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

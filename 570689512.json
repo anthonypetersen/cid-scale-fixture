@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_alcohol_use_proxy_report",
+  "conceptID": 570689512,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 557196660,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

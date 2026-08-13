@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_pregnancy_current",
+  "conceptID": 549789998,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 935055910,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

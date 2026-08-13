@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_chemotherapy_self_report",
+  "conceptID": 311371585,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

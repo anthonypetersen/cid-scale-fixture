@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hypertension_confirmed",
+  "conceptID": 320815343,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 872839827,
+  "responses": [
+    831230530,
+    770852606,
+    741306873,
+    200720551,
+    944986929
+  ]
+}

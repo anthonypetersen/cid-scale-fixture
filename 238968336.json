@@ -1,0 +1,14 @@
+{
+  "key": "change_in_diabetes_baseline",
+  "conceptID": 238968336,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 363692473,
+  "responses": [
+    334670354,
+    895095511,
+    923073275,
+    798096494,
+    457528658
+  ]
+}

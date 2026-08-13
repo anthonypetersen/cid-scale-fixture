@@ -1,0 +1,13 @@
+{
+  "key": "change_in_vegetable_intake_past_30_days",
+  "conceptID": 567258585,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

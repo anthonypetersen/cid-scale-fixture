@@ -1,0 +1,14 @@
+{
+  "key": "change_in_surgery_baseline",
+  "conceptID": 926256847,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 557196660,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

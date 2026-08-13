@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_asthma_screening",
+  "conceptID": 749423272,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

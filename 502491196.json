@@ -1,0 +1,11 @@
+{
+  "key": "last_occurrence_oral_contraceptive_diagnostic",
+  "conceptID": 502491196,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 167225166,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_obesity_diagnostic",
+  "conceptID": 179601032,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

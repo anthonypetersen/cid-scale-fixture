@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_colonoscopy_baseline",
+  "conceptID": 607608225,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    384827418,
+    820707641,
+    769107373,
+    146227588,
+    129962388
+  ]
+}

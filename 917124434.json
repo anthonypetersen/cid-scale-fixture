@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_depression_diagnostic",
+  "conceptID": 917124434,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 557196660,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

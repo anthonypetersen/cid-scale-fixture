@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_asthma_past_12_months",
+  "conceptID": 896119283,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

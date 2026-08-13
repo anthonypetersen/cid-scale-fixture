@@ -1,0 +1,13 @@
+{
+  "key": "number_of_oral_contraceptive_proxy_report",
+  "conceptID": 532770496,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

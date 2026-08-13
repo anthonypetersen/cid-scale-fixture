@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_mammogram_baseline",
+  "conceptID": 704954358,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 283771088,
+  "responses": [
+    636537575,
+    339194018,
+    752850456,
+    775268192,
+    441467675
+  ]
+}

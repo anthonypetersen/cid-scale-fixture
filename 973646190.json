@@ -1,0 +1,12 @@
+{
+  "key": "duration_of_red_meat_diagnostic",
+  "conceptID": 973646190,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 712692038,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

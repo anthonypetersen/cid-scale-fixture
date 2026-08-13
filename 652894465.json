@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_pregnancy_follow_up",
+  "conceptID": 652894465,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 363692473,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

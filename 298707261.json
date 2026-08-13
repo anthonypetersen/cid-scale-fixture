@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_breastfeeding_current",
+  "conceptID": 298707261,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    295559422,
+    107175770,
+    866783021,
+    901631087,
+    799046183
+  ]
+}

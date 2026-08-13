@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_sun_exposure_childhood",
+  "conceptID": 927500464,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 355786284,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

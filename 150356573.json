@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_hospitalization_follow_up",
+  "conceptID": 150356573,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "responses": [
+    418632982,
+    473057226,
+    122006597,
+    732234716,
+    595024474
+  ]
+}

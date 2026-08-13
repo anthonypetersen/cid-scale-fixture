@@ -1,0 +1,11 @@
+{
+  "key": "has_ever_smoking_screening",
+  "conceptID": 449390905,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 693873814,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

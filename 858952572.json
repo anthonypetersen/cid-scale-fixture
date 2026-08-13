@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_vegetable_intake_annual",
+  "conceptID": 858952572,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

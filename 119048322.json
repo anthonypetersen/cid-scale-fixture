@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_chemotherapy_baseline",
+  "conceptID": 119048322,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

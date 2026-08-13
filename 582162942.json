@@ -1,0 +1,11 @@
+{
+  "key": "date_of_hormone_therapy_diagnostic",
+  "conceptID": 582162942,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

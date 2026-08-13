@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_diabetes_baseline",
+  "conceptID": 720327418,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 363692473,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

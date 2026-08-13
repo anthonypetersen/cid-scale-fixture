@@ -1,0 +1,12 @@
+{
+  "key": "self_reported_vaping_childhood",
+  "conceptID": 118383441,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 167225166,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

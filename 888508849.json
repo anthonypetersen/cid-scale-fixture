@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_mammogram_most_recent",
+  "conceptID": 888508849,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

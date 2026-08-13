@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_sleep_apnea_current",
+  "conceptID": 102163789,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "responses": [
+    766118233,
+    793658884,
+    990262162,
+    327609846,
+    420452357
+  ]
+}

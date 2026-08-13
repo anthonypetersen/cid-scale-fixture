@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_hypertension_post_enrollment",
+  "conceptID": 387047254,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 872839827,
+  "responses": [
+    766118233,
+    793658884,
+    990262162,
+    327609846,
+    420452357
+  ]
+}

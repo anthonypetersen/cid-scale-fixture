@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_psa_test_past_30_days",
+  "conceptID": 248828251,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 167225166,
+  "responses": [
+    384827418,
+    820707641,
+    769107373,
+    146227588,
+    129962388
+  ]
+}

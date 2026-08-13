@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_obesity_past_30_days",
+  "conceptID": 264691116,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

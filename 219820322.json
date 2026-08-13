@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_smoking_quarterly",
+  "conceptID": 219820322,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "key": "severity_of_fruit_intake_baseline",
+  "conceptID": 302691853,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

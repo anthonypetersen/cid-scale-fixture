@@ -1,0 +1,12 @@
+{
+  "key": "self_reported_anxiety_diagnostic",
+  "conceptID": 505916903,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

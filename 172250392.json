@@ -1,0 +1,11 @@
+{
+  "key": "last_occurrence_sun_exposure_quarterly",
+  "conceptID": 172250392,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 935055910,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

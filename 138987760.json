@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_pregnancy_annual",
+  "conceptID": 138987760,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 363692473,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_colonoscopy_lifetime",
+  "conceptID": 902717106,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 355786284,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

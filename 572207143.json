@@ -1,0 +1,14 @@
+{
+  "key": "change_in_colonoscopy_post_enrollment",
+  "conceptID": 572207143,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 363692473,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

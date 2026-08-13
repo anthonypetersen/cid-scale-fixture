@@ -1,0 +1,11 @@
+{
+  "key": "self_reported_obesity_most_recent",
+  "conceptID": 402826677,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 363692473,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

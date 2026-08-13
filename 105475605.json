@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_obesity_lifetime",
+  "conceptID": 105475605,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 283771088,
+  "responses": [
+    283222050,
+    354828030,
+    415567240,
+    612435709,
+    906515953
+  ]
+}

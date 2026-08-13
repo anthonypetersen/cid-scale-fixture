@@ -1,0 +1,13 @@
+{
+  "key": "change_in_hormone_therapy_past_30_days",
+  "conceptID": 328138867,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

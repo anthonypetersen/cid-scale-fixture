@@ -1,0 +1,11 @@
+{
+  "key": "confidence_in_vaping_proxy_report",
+  "conceptID": 140552742,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 872839827,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

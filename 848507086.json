@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_skin_exam_self_report",
+  "conceptID": 848507086,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 557196660,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

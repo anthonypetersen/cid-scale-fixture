@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_diabetes_most_recent",
+  "conceptID": 802362003,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

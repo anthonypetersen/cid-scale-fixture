@@ -1,0 +1,11 @@
+{
+  "key": "frequency_of_hypertension_confirmed",
+  "conceptID": 602159143,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 167225166,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

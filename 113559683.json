@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_pregnancy_diagnostic",
+  "conceptID": 113559683,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    334670354,
+    895095511,
+    923073275,
+    798096494,
+    457528658
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_colonoscopy_pre_enrollment",
+  "conceptID": 658311863,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 557196660,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

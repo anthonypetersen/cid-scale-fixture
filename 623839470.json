@@ -1,0 +1,11 @@
+{
+  "key": "self_reported_fruit_intake_past_30_days",
+  "conceptID": 623839470,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 283771088,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

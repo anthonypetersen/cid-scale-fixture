@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_hormone_therapy_lifetime",
+  "conceptID": 840858325,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    334670354,
+    895095511,
+    923073275,
+    798096494,
+    457528658
+  ]
+}

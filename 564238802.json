@@ -1,0 +1,14 @@
+{
+  "key": "date_of_fruit_intake_childhood",
+  "conceptID": 564238802,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 283771088,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

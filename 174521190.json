@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_pregnancy_proxy_report",
+  "conceptID": 174521190,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 872839827,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

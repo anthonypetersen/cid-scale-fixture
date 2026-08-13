@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_sleep_apnea_childhood",
+  "conceptID": 221847461,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 693873814,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

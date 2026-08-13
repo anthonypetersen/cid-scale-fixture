@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_pregnancy_current",
+  "conceptID": 109790837,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 723779304,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

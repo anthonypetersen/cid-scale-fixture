@@ -1,0 +1,12 @@
+{
+  "key": "confidence_in_colonoscopy_past_12_months",
+  "conceptID": 979920483,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 935055910,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

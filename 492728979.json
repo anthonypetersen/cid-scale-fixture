@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_mammogram_adulthood",
+  "conceptID": 492728979,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 355786284,
+  "responses": [
+    458890394,
+    374691143,
+    227131343,
+    486423714,
+    252152928
+  ]
+}

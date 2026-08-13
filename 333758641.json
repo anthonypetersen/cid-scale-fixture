@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_hospitalization_self_report",
+  "conceptID": 333758641,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

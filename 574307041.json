@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_skin_exam_post_enrollment",
+  "conceptID": 574307041,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 355786284,
+  "responses": [
+    295559422,
+    107175770,
+    866783021,
+    901631087,
+    799046183
+  ]
+}

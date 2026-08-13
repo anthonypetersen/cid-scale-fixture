@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_fruit_intake_suspected",
+  "conceptID": 262076784,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 723779304,
+  "responses": [
+    252928918,
+    556841667,
+    581696763,
+    249399207,
+    555332466
+  ]
+}

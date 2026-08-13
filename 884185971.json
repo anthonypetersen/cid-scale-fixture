@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_skin_exam_proxy_report",
+  "conceptID": 884185971,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 935055910,
+  "responses": [
+    654140840,
+    703035541,
+    345416748,
+    681474768,
+    824385722
+  ]
+}

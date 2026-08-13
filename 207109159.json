@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_diabetes_adulthood",
+  "conceptID": 207109159,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 355786284,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

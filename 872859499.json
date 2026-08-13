@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_vegetable_intake_diagnostic",
+  "conceptID": 872859499,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

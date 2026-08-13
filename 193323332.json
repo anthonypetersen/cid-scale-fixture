@@ -1,0 +1,14 @@
+{
+  "key": "change_in_oral_contraceptive_lifetime",
+  "conceptID": 193323332,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 363692473,
+  "responses": [
+    622161831,
+    387268706,
+    579589075,
+    405254092,
+    384827418
+  ]
+}

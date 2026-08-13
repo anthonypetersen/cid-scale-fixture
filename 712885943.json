@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_hypertension_confirmed",
+  "conceptID": 712885943,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

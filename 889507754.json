@@ -1,0 +1,12 @@
+{
+  "key": "date_of_hormone_therapy_follow_up",
+  "conceptID": 889507754,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 167225166,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

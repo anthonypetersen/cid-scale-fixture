@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_hypertension_childhood",
+  "conceptID": 931813324,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_colonoscopy_past_12_months",
+  "conceptID": 145912405,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "responses": [
+    458890394,
+    374691143,
+    227131343,
+    486423714,
+    252152928
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_hormone_therapy_most_recent",
+  "conceptID": 235029313,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 355786284,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

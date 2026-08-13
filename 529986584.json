@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_hormone_therapy_lifetime",
+  "conceptID": 529986584,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

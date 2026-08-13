@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_sun_exposure_diagnostic",
+  "conceptID": 966673627,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 723779304,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

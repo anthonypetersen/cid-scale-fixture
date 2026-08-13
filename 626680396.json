@@ -1,0 +1,11 @@
+{
+  "key": "duration_of_hospitalization_self_report",
+  "conceptID": 626680396,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

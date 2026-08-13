@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_hypertension_self_report",
+  "conceptID": 249090269,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 283771088,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

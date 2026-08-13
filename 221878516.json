@@ -1,0 +1,13 @@
+{
+  "key": "number_of_asthma_pre_enrollment",
+  "conceptID": 221878516,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

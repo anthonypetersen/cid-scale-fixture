@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_oral_contraceptive_post_enrollment",
+  "conceptID": 224604747,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

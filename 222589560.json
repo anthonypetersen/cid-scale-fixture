@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_pap_test_past_12_months",
+  "conceptID": 222589560,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "sourceConceptId": 167225166,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

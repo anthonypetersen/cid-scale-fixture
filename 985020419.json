@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_psa_test_first_occurrence",
+  "conceptID": 985020419,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 935055910,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

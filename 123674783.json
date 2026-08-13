@@ -1,0 +1,13 @@
+{
+  "key": "type_of_asthma_quarterly",
+  "conceptID": 123674783,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_fruit_intake_past_12_months",
+  "conceptID": 303503248,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 723779304,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

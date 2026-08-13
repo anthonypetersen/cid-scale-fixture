@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_hypertension_childhood",
+  "conceptID": 381731398,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 355786284,
+  "responses": [
+    636537575,
+    339194018,
+    752850456,
+    775268192,
+    441467675
+  ]
+}

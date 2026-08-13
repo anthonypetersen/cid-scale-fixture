@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_diabetes_past_12_months",
+  "conceptID": 740213967,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 557196660,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

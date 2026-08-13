@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_red_meat_screening",
+  "conceptID": 755000951,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 283771088,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

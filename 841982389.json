@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_fruit_intake_self_report",
+  "conceptID": 841982389,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 355786284,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

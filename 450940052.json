@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_colonoscopy_annual",
+  "conceptID": 450940052,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 872839827,
+  "responses": [
+    384827418,
+    820707641,
+    769107373,
+    146227588,
+    129962388
+  ]
+}

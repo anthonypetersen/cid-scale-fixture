@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_radiation_exposure_screening",
+  "conceptID": 581820656,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

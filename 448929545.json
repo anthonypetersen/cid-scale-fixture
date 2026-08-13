@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_arthritis_most_recent",
+  "conceptID": 448929545,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 693873814,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

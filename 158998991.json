@@ -1,0 +1,13 @@
+{
+  "key": "date_of_pregnancy_diagnostic",
+  "conceptID": 158998991,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    458890394,
+    374691143,
+    227131343,
+    486423714,
+    252152928
+  ]
+}

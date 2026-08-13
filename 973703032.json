@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_sunscreen_use_first_occurrence",
+  "conceptID": 973703032,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 723779304,
+  "responses": [
+    384827418,
+    820707641,
+    769107373,
+    146227588,
+    129962388
+  ]
+}

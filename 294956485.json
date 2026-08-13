@@ -1,0 +1,14 @@
+{
+  "key": "date_of_oral_contraceptive_baseline",
+  "conceptID": 294956485,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 363692473,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

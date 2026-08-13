@@ -1,0 +1,13 @@
+{
+  "key": "current_status_hospitalization_post_enrollment",
+  "conceptID": 197984352,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "responses": [
+    334670354,
+    895095511,
+    923073275,
+    798096494,
+    457528658
+  ]
+}

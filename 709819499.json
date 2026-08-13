@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_diabetes_post_enrollment",
+  "conceptID": 709819499,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

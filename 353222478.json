@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_skin_exam_proxy_report",
+  "conceptID": 353222478,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 723779304,
+  "responses": [
+    994303373,
+    245650407,
+    685818669,
+    261648124,
+    486702352
+  ]
+}

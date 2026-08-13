@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_hospitalization_proxy_report",
+  "conceptID": 836536914,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 363692473,
+  "responses": [
+    831230530,
+    770852606,
+    741306873,
+    200720551,
+    944986929
+  ]
+}

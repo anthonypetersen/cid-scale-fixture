@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_obesity_annual",
+  "conceptID": 192998351,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 283771088,
+  "responses": [
+    636537575,
+    339194018,
+    752850456,
+    775268192,
+    441467675
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_obesity_screening",
+  "conceptID": 305099650,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 693873814,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

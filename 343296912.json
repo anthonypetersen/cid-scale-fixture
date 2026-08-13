@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_exercise_suspected",
+  "conceptID": 343296912,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 355786284,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

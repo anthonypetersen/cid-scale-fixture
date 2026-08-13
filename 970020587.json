@@ -1,0 +1,14 @@
+{
+  "key": "change_in_hospitalization_baseline",
+  "conceptID": 970020587,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 693873814,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

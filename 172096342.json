@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_anxiety_confirmed",
+  "conceptID": 172096342,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 557196660,
+  "responses": [
+    458890394,
+    374691143,
+    227131343,
+    486423714,
+    252152928
+  ]
+}

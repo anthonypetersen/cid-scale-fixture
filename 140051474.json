@@ -1,0 +1,14 @@
+{
+  "key": "change_in_hospitalization_proxy_report",
+  "conceptID": 140051474,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "sourceConceptId": 363692473,
+  "responses": [
+    334670354,
+    895095511,
+    923073275,
+    798096494,
+    457528658
+  ]
+}

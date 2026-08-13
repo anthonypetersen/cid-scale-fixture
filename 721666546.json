@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_psa_test_baseline",
+  "conceptID": 721666546,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 712692038,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

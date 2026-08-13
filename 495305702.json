@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_skin_exam_past_30_days",
+  "conceptID": 495305702,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "responses": [
+    636537575,
+    339194018,
+    752850456,
+    775268192,
+    441467675
+  ]
+}

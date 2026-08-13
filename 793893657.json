@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_hospitalization_current",
+  "conceptID": 793893657,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 557196660,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

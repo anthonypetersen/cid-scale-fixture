@@ -1,0 +1,10 @@
+{
+  "key": "provider_reported_psa_test_self_report",
+  "conceptID": 207827989,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

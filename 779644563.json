@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_asthma_pre_enrollment",
+  "conceptID": 779644563,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "sourceConceptId": 167225166,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

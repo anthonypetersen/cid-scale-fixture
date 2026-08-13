@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_surgery_adulthood",
+  "conceptID": 468410878,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

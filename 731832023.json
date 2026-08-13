@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_colonoscopy_first_occurrence",
+  "conceptID": 731832023,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 935055910,
+  "responses": [
+    418632982,
+    473057226,
+    122006597,
+    732234716,
+    595024474
+  ]
+}

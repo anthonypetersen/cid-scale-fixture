@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_colonoscopy_screening",
+  "conceptID": 723539576,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

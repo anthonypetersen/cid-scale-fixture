@@ -1,0 +1,12 @@
+{
+  "key": "duration_of_pregnancy_childhood",
+  "conceptID": 287670785,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 712692038,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

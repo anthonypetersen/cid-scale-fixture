@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_sleep_apnea_self_report",
+  "conceptID": 514316054,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 723779304,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_colonoscopy_adulthood",
+  "conceptID": 311568827,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 355786284,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

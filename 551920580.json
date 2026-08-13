@@ -1,0 +1,13 @@
+{
+  "key": "date_of_surgery_first_occurrence",
+  "conceptID": 551920580,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

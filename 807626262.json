@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hypertension_adulthood",
+  "conceptID": 807626262,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 363692473,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

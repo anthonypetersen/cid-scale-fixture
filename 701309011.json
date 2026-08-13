@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_diabetes_quarterly",
+  "conceptID": 701309011,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

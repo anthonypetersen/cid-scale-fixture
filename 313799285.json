@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_surgery_childhood",
+  "conceptID": 313799285,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 693873814,
+  "responses": [
+    831230530,
+    770852606,
+    741306873,
+    200720551,
+    944986929
+  ]
+}

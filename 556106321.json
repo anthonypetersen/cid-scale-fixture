@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_chemotherapy_baseline",
+  "conceptID": 556106321,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 283771088,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

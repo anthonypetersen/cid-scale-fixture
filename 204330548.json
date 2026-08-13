@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_oral_contraceptive_past_30_days",
+  "conceptID": 204330548,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_hospitalization_lifetime",
+  "conceptID": 200992218,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "responses": [
+    252928918,
+    556841667,
+    581696763,
+    249399207,
+    555332466
+  ]
+}

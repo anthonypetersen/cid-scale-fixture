@@ -1,0 +1,14 @@
+{
+  "key": "number_of_depression_screening",
+  "conceptID": 807615460,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 712692038,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

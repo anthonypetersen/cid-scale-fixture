@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_pregnancy_lifetime",
+  "conceptID": 979320116,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 723779304,
+  "responses": [
+    636537575,
+    339194018,
+    752850456,
+    775268192,
+    441467675
+  ]
+}

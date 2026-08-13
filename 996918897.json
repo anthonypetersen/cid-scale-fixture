@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_alcohol_use_childhood",
+  "conceptID": 996918897,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 167225166,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

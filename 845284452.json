@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_red_meat_post_enrollment",
+  "conceptID": 845284452,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 712692038,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

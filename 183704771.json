@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_surgery_lifetime",
+  "conceptID": 183704771,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 355786284,
+  "responses": [
+    992931137,
+    668876715,
+    647471737,
+    874983300,
+    131784751
+  ]
+}

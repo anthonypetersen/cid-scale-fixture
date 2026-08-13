@@ -1,0 +1,12 @@
+{
+  "key": "severity_of_hospitalization_post_enrollment",
+  "conceptID": 201707559,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

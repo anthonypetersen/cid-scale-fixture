@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_hormone_therapy_confirmed",
+  "conceptID": 893792115,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

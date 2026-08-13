@@ -1,0 +1,14 @@
+{
+  "key": "current_status_sun_exposure_baseline",
+  "conceptID": 610828247,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "sourceConceptId": 693873814,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

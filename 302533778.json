@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_chemotherapy_lifetime",
+  "conceptID": 302533778,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "sourceConceptId": 935055910,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

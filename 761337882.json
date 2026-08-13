@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_colonoscopy_past_30_days",
+  "conceptID": 761337882,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

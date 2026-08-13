@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_pregnancy_past_12_months",
+  "conceptID": 139917447,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 355786284,
+  "responses": [
+    418632982,
+    473057226,
+    122006597,
+    732234716,
+    595024474
+  ]
+}

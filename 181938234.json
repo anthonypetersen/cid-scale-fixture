@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_alcohol_use_first_occurrence",
+  "conceptID": 181938234,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "responses": [
+    654140840,
+    703035541,
+    345416748,
+    681474768,
+    824385722
+  ]
+}

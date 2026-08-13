@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_sun_exposure_current",
+  "conceptID": 925991589,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 355786284,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_diabetes_lifetime",
+  "conceptID": 859087628,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 693873814,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

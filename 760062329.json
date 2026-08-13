@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_skin_exam_follow_up",
+  "conceptID": 760062329,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

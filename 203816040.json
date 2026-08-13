@@ -1,0 +1,11 @@
+{
+  "key": "last_occurrence_psa_test_quarterly",
+  "conceptID": 203816040,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 723779304,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

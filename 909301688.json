@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_hospitalization_past_12_months",
+  "conceptID": 909301688,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "responses": [
+    969741951,
+    248640998,
+    643309453,
+    729491518,
+    289814991
+  ]
+}

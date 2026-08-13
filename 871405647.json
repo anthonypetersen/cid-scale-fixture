@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_red_meat_self_report",
+  "conceptID": 871405647,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 133695292,
+  "sourceConceptId": 723779304,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

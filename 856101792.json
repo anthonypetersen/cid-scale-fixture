@@ -1,0 +1,13 @@
+{
+  "key": "type_of_colonoscopy_quarterly",
+  "conceptID": 856101792,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

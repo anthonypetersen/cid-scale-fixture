@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_colonoscopy_past_12_months",
+  "conceptID": 859350158,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 363692473,
+  "responses": [
+    456500150,
+    915939149,
+    166088386,
+    374112411,
+    956594418
+  ]
+}

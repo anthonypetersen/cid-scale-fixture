@@ -1,0 +1,14 @@
+{
+  "key": "date_of_vaping_suspected",
+  "conceptID": 154280519,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 355786284,
+  "responses": [
+    392907393,
+    616239373,
+    611916263,
+    530897153,
+    516961975
+  ]
+}

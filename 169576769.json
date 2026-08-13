@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_surgery_current",
+  "conceptID": 169576769,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 935055910,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_radiation_exposure_lifetime",
+  "conceptID": 197162660,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "responses": [
+    384827418,
+    820707641,
+    769107373,
+    146227588,
+    129962388
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "key": "frequency_of_obesity_annual",
+  "conceptID": 551198390,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 355786284,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

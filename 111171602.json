@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_pregnancy_suspected",
+  "conceptID": 111171602,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "key": "age_at_first_red_meat_diagnostic",
+  "conceptID": 486652058,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 693873814,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

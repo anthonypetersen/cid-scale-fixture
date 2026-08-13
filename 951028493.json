@@ -1,0 +1,14 @@
+{
+  "key": "date_of_fruit_intake_screening",
+  "conceptID": 951028493,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 712692038,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

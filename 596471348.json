@@ -1,0 +1,11 @@
+{
+  "key": "self_reported_pregnancy_adulthood",
+  "conceptID": 596471348,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 662270188,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

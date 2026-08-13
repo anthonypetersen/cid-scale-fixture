@@ -1,0 +1,12 @@
+{
+  "key": "date_of_fruit_intake_proxy_report",
+  "conceptID": 965600154,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 355786284,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

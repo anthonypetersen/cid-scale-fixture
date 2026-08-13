@@ -1,0 +1,13 @@
+{
+  "key": "type_of_red_meat_confirmed",
+  "conceptID": 805223623,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

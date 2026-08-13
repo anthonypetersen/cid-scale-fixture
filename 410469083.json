@@ -1,0 +1,14 @@
+{
+  "key": "current_status_obesity_follow_up",
+  "conceptID": 410469083,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 167225166,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_sun_exposure_lifetime",
+  "conceptID": 259898713,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 872839827,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_vaping_current",
+  "conceptID": 285482405,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 893852950,
+  "sourceConceptId": 872839827,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

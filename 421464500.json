@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_diabetes_past_30_days",
+  "conceptID": 421464500,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

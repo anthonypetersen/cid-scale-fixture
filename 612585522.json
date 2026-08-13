@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_radiation_exposure_most_recent",
+  "conceptID": 612585522,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 935055910,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

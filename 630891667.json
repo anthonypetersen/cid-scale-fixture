@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_mammogram_quarterly",
+  "conceptID": 630891667,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

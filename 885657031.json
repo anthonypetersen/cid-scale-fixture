@@ -1,0 +1,14 @@
+{
+  "key": "change_in_sleep_apnea_diagnostic",
+  "conceptID": 885657031,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 872839827,
+  "responses": [
+    767109432,
+    985012601,
+    258282528,
+    765066291,
+    761248402
+  ]
+}

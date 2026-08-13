@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_alcohol_use_lifetime",
+  "conceptID": 317154401,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 340260388,
+  "sourceConceptId": 935055910,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

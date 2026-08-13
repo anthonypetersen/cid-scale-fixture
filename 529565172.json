@@ -1,0 +1,14 @@
+{
+  "key": "type_of_hypertension_quarterly",
+  "conceptID": 529565172,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "sourceConceptId": 872839827,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_chemotherapy_confirmed",
+  "conceptID": 576202643,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

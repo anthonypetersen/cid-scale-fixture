@@ -1,0 +1,14 @@
+{
+  "key": "type_of_depression_self_report",
+  "conceptID": 978807750,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 723779304,
+  "responses": [
+    767109432,
+    985012601,
+    258282528,
+    765066291,
+    761248402
+  ]
+}

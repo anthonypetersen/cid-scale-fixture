@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_skin_exam_proxy_report",
+  "conceptID": 539256190,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 320657206,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

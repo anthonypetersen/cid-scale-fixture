@@ -1,0 +1,11 @@
+{
+  "key": "duration_of_hormone_therapy_childhood",
+  "conceptID": 314026313,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "responses": [
+    919903724,
+    536916326,
+    273277017
+  ]
+}

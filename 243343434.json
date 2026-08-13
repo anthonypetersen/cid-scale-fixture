@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_hypertension_follow_up",
+  "conceptID": 243343434,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 355786284,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_arthritis_annual",
+  "conceptID": 978683684,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 167225166,
+  "responses": [
+    943723640,
+    704636275,
+    438090887,
+    997485092,
+    261288046
+  ]
+}

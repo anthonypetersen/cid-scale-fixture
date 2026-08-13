@@ -1,0 +1,13 @@
+{
+  "key": "last_occurrence_surgery_post_enrollment",
+  "conceptID": 728975548,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

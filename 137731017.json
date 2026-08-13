@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_sun_exposure_first_occurrence",
+  "conceptID": 137731017,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 712692038,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

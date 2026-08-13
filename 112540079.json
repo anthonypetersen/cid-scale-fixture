@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_sleep_apnea_adulthood",
+  "conceptID": 112540079,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 345905194,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

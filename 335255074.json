@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_vegetable_intake_quarterly",
+  "conceptID": 335255074,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

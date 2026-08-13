@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_asthma_diagnostic",
+  "conceptID": 691814402,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

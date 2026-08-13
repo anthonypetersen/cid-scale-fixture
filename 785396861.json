@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_radiation_exposure_annual",
+  "conceptID": 785396861,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 363692473,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

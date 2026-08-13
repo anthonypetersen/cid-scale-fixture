@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_sun_exposure_post_enrollment",
+  "conceptID": 811145909,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 363692473,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

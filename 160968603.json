@@ -1,0 +1,14 @@
+{
+  "key": "date_of_sun_exposure_proxy_report",
+  "conceptID": 160968603,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 283771088,
+  "responses": [
+    992931137,
+    668876715,
+    647471737,
+    874983300,
+    131784751
+  ]
+}

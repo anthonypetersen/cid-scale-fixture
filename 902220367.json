@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_fruit_intake_past_30_days",
+  "conceptID": 902220367,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

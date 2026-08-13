@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_hospitalization_childhood",
+  "conceptID": 727000730,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

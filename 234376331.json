@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_hospitalization_adulthood",
+  "conceptID": 234376331,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 557196660,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

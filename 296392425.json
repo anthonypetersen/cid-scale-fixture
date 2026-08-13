@@ -1,0 +1,14 @@
+{
+  "key": "number_of_pregnancy_first_occurrence",
+  "conceptID": 296392425,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 693873814,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_sleep_apnea_pre_enrollment",
+  "conceptID": 179052207,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

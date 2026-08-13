@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_smoking_follow_up",
+  "conceptID": 271950984,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 712692038,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

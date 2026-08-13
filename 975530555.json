@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_radiation_exposure_quarterly",
+  "conceptID": 975530555,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 573933287,
+  "sourceConceptId": 557196660,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

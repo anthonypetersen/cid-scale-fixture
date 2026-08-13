@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_vegetable_intake_confirmed",
+  "conceptID": 192593729,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "sourceConceptId": 872839827,
+  "responses": [
+    992931137,
+    668876715,
+    647471737,
+    874983300,
+    131784751
+  ]
+}

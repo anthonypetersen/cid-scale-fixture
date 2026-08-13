@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_diabetes_suspected",
+  "conceptID": 407452839,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 355786284,
+  "responses": [
+    392907393,
+    616239373,
+    611916263,
+    530897153,
+    516961975
+  ]
+}

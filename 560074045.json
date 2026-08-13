@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_radiation_exposure_past_30_days",
+  "conceptID": 560074045,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 376301362,
+  "sourceConceptId": 557196660,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

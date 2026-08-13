@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_obesity_childhood",
+  "conceptID": 868122068,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 872839827,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

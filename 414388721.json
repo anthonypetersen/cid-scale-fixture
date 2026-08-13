@@ -1,0 +1,14 @@
+{
+  "key": "type_of_chemotherapy_lifetime",
+  "conceptID": 414388721,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 828120685,
+  "sourceConceptId": 355786284,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_pap_test_adulthood",
+  "conceptID": 130111551,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "sourceConceptId": 935055910,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

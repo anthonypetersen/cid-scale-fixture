@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_sleep_apnea_past_12_months",
+  "conceptID": 650369569,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "responses": [
+    430142317,
+    437242010,
+    629497887,
+    913217672,
+    960513238
+  ]
+}

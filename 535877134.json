@@ -1,0 +1,13 @@
+{
+  "key": "confidence_in_radiation_exposure_current",
+  "conceptID": 535877134,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 167225166,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

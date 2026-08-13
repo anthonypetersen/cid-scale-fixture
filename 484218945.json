@@ -1,0 +1,14 @@
+{
+  "key": "type_of_depression_follow_up",
+  "conceptID": 484218945,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "sourceConceptId": 723779304,
+  "responses": [
+    283222050,
+    354828030,
+    415567240,
+    612435709,
+    906515953
+  ]
+}

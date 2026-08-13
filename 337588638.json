@@ -1,0 +1,12 @@
+{
+  "key": "severity_of_surgery_adulthood",
+  "conceptID": 337588638,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 872839827,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

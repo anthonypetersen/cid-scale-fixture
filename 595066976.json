@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_colonoscopy_annual",
+  "conceptID": 595066976,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

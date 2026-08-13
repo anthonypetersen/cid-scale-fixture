@@ -1,0 +1,13 @@
+{
+  "key": "number_of_sun_exposure_confirmed",
+  "conceptID": 380767264,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "responses": [
+    266955531,
+    733978256,
+    595761727,
+    189703926,
+    449066352
+  ]
+}

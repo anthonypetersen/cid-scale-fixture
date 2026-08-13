@@ -1,0 +1,12 @@
+{
+  "key": "provider_reported_hospitalization_annual",
+  "conceptID": 376536448,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    670498528,
+    852184105,
+    165379727,
+    806348758
+  ]
+}

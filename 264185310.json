@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_radiation_exposure_annual",
+  "conceptID": 264185310,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 355786284,
+  "responses": [
+    636537575,
+    339194018,
+    752850456,
+    775268192,
+    441467675
+  ]
+}

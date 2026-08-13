@@ -1,0 +1,11 @@
+{
+  "key": "self_reported_depression_current",
+  "conceptID": 963550474,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 283771088,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

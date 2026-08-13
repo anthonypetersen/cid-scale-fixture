@@ -1,0 +1,13 @@
+{
+  "key": "date_of_asthma_pre_enrollment",
+  "conceptID": 919782798,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

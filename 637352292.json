@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_hospitalization_current",
+  "conceptID": 637352292,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 935055910,
+  "responses": [
+    654140840,
+    703035541,
+    345416748,
+    681474768,
+    824385722
+  ]
+}

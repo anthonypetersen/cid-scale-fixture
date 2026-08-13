@@ -1,0 +1,13 @@
+{
+  "key": "age_at_first_arthritis_post_enrollment",
+  "conceptID": 605985520,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

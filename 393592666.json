@@ -1,0 +1,14 @@
+{
+  "key": "current_status_radiation_exposure_diagnostic",
+  "conceptID": 393592666,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "sourceConceptId": 935055910,
+  "responses": [
+    636537575,
+    339194018,
+    752850456,
+    775268192,
+    441467675
+  ]
+}

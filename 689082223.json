@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_skin_exam_lifetime",
+  "conceptID": 689082223,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 538965925,
+  "responses": [
+    654140840,
+    703035541,
+    345416748,
+    681474768,
+    824385722
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_sun_exposure_past_12_months",
+  "conceptID": 998232562,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "responses": [
+    915666423,
+    935117361,
+    683315969,
+    752341326,
+    218256127
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_diabetes_suspected",
+  "conceptID": 502542347,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "responses": [
+    645865256,
+    521084692,
+    529091449,
+    599910653,
+    233399158
+  ]
+}

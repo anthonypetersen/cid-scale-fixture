@@ -1,0 +1,14 @@
+{
+  "key": "current_status_hormone_therapy_lifetime",
+  "conceptID": 925667746,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 324931360,
+  "sourceConceptId": 363692473,
+  "responses": [
+    831230530,
+    770852606,
+    741306873,
+    200720551,
+    944986929
+  ]
+}

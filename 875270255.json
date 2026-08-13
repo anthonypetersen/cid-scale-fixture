@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_mammogram_lifetime",
+  "conceptID": 875270255,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 872839827,
+  "responses": [
+    796243591,
+    396830159,
+    524952828,
+    917499286,
+    717159169
+  ]
+}

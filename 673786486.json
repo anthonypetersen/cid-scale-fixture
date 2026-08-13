@@ -1,0 +1,13 @@
+{
+  "key": "has_ever_chemotherapy_past_30_days",
+  "conceptID": 673786486,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "responses": [
+    915666423,
+    935117361,
+    683315969,
+    752341326,
+    218256127
+  ]
+}

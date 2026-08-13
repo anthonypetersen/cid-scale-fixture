@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_asthma_proxy_report",
+  "conceptID": 260755197,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 167225166,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

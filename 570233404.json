@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_alcohol_use_screening",
+  "conceptID": 570233404,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 525085349,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

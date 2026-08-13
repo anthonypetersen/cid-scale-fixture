@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_obesity_diagnostic",
+  "conceptID": 366042980,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 649558808,
+  "sourceConceptId": 355786284,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

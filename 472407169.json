@@ -1,0 +1,14 @@
+{
+  "key": "reason_for_sun_exposure_lifetime",
+  "conceptID": 472407169,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 124411248,
+  "sourceConceptId": 935055910,
+  "responses": [
+    100642292,
+    632542381,
+    877434198,
+    706301785,
+    718892130
+  ]
+}

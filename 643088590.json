@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_hypertension_self_report",
+  "conceptID": 643088590,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "responses": [
+    915666423,
+    935117361,
+    683315969,
+    752341326,
+    218256127
+  ]
+}

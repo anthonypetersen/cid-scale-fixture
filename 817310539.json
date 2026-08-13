@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_hospitalization_annual",
+  "conceptID": 817310539,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 858419312,
+  "sourceConceptId": 712692038,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

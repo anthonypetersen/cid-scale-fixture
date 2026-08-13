@@ -1,0 +1,14 @@
+{
+  "key": "has_ever_hypertension_adulthood",
+  "conceptID": 364755743,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 255704711,
+  "sourceConceptId": 935055910,
+  "responses": [
+    462924269,
+    149728866,
+    961352022,
+    902035586,
+    576789351
+  ]
+}

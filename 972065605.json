@@ -1,0 +1,14 @@
+{
+  "key": "change_in_sleep_apnea_confirmed",
+  "conceptID": 972065605,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 167225166,
+  "responses": [
+    992931137,
+    668876715,
+    647471737,
+    874983300,
+    131784751
+  ]
+}

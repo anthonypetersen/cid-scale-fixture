@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_depression_quarterly",
+  "conceptID": 811430675,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 355786284,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

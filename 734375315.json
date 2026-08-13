@@ -1,0 +1,12 @@
+{
+  "key": "age_at_first_arthritis_past_30_days",
+  "conceptID": 734375315,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 363692473,
+  "responses": [
+    919903724,
+    536916326,
+    730804657
+  ]
+}

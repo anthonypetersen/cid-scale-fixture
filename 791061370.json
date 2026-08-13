@@ -1,0 +1,13 @@
+{
+  "key": "self_reported_arthritis_screening",
+  "conceptID": 791061370,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

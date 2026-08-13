@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_hormone_therapy_current",
+  "conceptID": 582035235,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "responses": [
+    337998093,
+    481466101,
+    998751990,
+    186218583,
+    301325446
+  ]
+}

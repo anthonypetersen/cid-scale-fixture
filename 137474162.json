@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_mammogram_lifetime",
+  "conceptID": 137474162,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 155603253,
+  "sourceConceptId": 363692473,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

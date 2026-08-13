@@ -1,0 +1,14 @@
+{
+  "key": "self_reported_pap_test_confirmed",
+  "conceptID": 298201184,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 283771088,
+  "responses": [
+    371664488,
+    590792634,
+    807092097,
+    511394675,
+    149300166
+  ]
+}

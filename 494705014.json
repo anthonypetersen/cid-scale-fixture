@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_asthma_past_12_months",
+  "conceptID": 494705014,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146253461,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

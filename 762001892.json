@@ -1,0 +1,11 @@
+{
+  "key": "has_ever_depression_diagnostic",
+  "conceptID": 762001892,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 267120106,
+  "sourceConceptId": 693873814,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

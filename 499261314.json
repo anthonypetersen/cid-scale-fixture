@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_skin_exam_lifetime",
+  "conceptID": 499261314,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 103458656,
+  "sourceConceptId": 723779304,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

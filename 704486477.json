@@ -1,0 +1,13 @@
+{
+  "key": "provider_reported_hormone_therapy_quarterly",
+  "conceptID": 704486477,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "responses": [
+    815209385,
+    406819430,
+    866698447,
+    321035580,
+    846923783
+  ]
+}

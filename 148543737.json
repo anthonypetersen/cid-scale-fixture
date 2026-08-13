@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_skin_exam_screening",
+  "conceptID": 148543737,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 872839827,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

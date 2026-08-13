@@ -1,0 +1,14 @@
+{
+  "key": "current_status_hormone_therapy_adulthood",
+  "conceptID": 747242011,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 504906155,
+  "sourceConceptId": 872839827,
+  "responses": [
+    428153852,
+    767223477,
+    816864338,
+    502346224,
+    381638726
+  ]
+}

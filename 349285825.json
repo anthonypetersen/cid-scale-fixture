@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_pregnancy_childhood",
+  "conceptID": 349285825,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 805192563,
+  "responses": [
+    657235769,
+    473071845,
+    693741461,
+    880362004,
+    489678998
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_sun_exposure_most_recent",
+  "conceptID": 412198006,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 288559439,
+  "sourceConceptId": 723779304,
+  "responses": [
+    390647440,
+    526497551,
+    926210587,
+    917524226,
+    992118833
+  ]
+}

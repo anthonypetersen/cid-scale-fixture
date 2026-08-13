@@ -1,0 +1,11 @@
+{
+  "key": "provider_reported_alcohol_use_post_enrollment",
+  "conceptID": 134585754,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 128384160,
+  "sourceConceptId": 363692473,
+  "responses": [
+    919903724,
+    536916326
+  ]
+}

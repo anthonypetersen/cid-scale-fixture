@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_alcohol_use_post_enrollment",
+  "conceptID": 409884070,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 523703731,
+  "responses": [
+    490397595,
+    467937682,
+    833302400,
+    915166256,
+    836469772
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_colonoscopy_first_occurrence",
+  "conceptID": 760227497,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "sourceConceptId": 693873814,
+  "responses": [
+    230518569,
+    575393343,
+    297291776,
+    393540586,
+    891919471
+  ]
+}

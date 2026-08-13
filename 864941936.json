@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_depression_current",
+  "conceptID": 864941936,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 277528454,
+  "responses": [
+    612041790,
+    679585489,
+    219832476,
+    461240237,
+    720570776
+  ]
+}

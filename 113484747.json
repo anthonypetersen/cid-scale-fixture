@@ -1,0 +1,14 @@
+{
+  "key": "type_of_arthritis_adulthood",
+  "conceptID": 113484747,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 577302045,
+  "sourceConceptId": 557196660,
+  "responses": [
+    422241191,
+    378889348,
+    272697626,
+    177205120,
+    830381588
+  ]
+}

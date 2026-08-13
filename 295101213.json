@@ -1,0 +1,13 @@
+{
+  "key": "duration_of_sun_exposure_suspected",
+  "conceptID": 295101213,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 550656538,
+  "responses": [
+    371664488,
+    590792634,
+    807092097,
+    511394675,
+    149300166
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_fruit_intake_screening",
+  "conceptID": 917817832,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 681124964,
+  "sourceConceptId": 355786284,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

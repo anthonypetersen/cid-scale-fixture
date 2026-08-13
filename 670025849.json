@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_hormone_therapy_confirmed",
+  "conceptID": 670025849,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 878927183,
+  "sourceConceptId": 712692038,
+  "responses": [
+    384827418,
+    820707641,
+    769107373,
+    146227588,
+    129962388
+  ]
+}

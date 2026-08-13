@@ -1,0 +1,14 @@
+{
+  "key": "last_occurrence_hospitalization_adulthood",
+  "conceptID": 294241371,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 853603683,
+  "sourceConceptId": 693873814,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

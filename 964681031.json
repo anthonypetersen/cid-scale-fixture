@@ -1,0 +1,13 @@
+{
+  "key": "frequency_of_arthritis_lifetime",
+  "conceptID": 964681031,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 355786284,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

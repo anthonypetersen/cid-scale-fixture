@@ -1,0 +1,14 @@
+{
+  "key": "provider_reported_diabetes_proxy_report",
+  "conceptID": 139969129,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 771163808,
+  "sourceConceptId": 723779304,
+  "responses": [
+    767109432,
+    985012601,
+    258282528,
+    765066291,
+    761248402
+  ]
+}

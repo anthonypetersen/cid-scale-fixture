@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_hypertension_childhood",
+  "conceptID": 326727465,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 717950816,
+  "sourceConceptId": 363692473,
+  "responses": [
+    795416962,
+    239273153,
+    246680264,
+    217486120,
+    117114468
+  ]
+}

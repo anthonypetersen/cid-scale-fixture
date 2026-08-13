@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_chemotherapy_proxy_report",
+  "conceptID": 548095757,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "responses": [
+    660640436,
+    433914181,
+    595111388,
+    313636785,
+    208297400
+  ]
+}

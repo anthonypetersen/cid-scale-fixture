@@ -1,0 +1,13 @@
+{
+  "key": "type_of_breastfeeding_quarterly",
+  "conceptID": 543467929,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 167225166,
+  "responses": [
+    548257495,
+    214247446,
+    141003294,
+    753576161
+  ]
+}

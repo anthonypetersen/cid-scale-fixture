@@ -1,0 +1,14 @@
+{
+  "key": "frequency_of_pap_test_post_enrollment",
+  "conceptID": 130114300,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 363692473,
+  "responses": [
+    840527161,
+    955854387,
+    704995535,
+    544574781,
+    438258780
+  ]
+}

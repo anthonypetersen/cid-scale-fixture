@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_radiation_exposure_adulthood",
+  "conceptID": 304904397,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 633091591,
+  "sourceConceptId": 872839827,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

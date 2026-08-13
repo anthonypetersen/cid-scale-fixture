@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_sunscreen_use_pre_enrollment",
+  "conceptID": 725172276,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 935055910,
+  "responses": [
+    915666423,
+    935117361,
+    683315969,
+    752341326,
+    218256127
+  ]
+}

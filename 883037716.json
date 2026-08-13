@@ -1,0 +1,14 @@
+{
+  "key": "confidence_in_diabetes_post_enrollment",
+  "conceptID": 883037716,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 146088339,
+  "sourceConceptId": 167225166,
+  "responses": [
+    780039811,
+    671901960,
+    724970459,
+    530834355,
+    705334592
+  ]
+}

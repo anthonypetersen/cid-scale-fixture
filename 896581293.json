@@ -1,0 +1,14 @@
+{
+  "key": "current_status_obesity_baseline",
+  "conceptID": 896581293,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 167225166,
+  "responses": [
+    252928918,
+    556841667,
+    581696763,
+    249399207,
+    555332466
+  ]
+}

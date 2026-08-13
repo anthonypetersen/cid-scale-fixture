@@ -1,0 +1,13 @@
+{
+  "key": "severity_of_colonoscopy_most_recent",
+  "conceptID": 999072090,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 764759235,
+  "responses": [
+    252928918,
+    556841667,
+    581696763,
+    249399207,
+    555332466
+  ]
+}

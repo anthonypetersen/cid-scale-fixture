@@ -1,0 +1,14 @@
+{
+  "key": "age_at_first_oral_contraceptive_lifetime",
+  "conceptID": 456968443,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 637056561,
+  "sourceConceptId": 167225166,
+  "responses": [
+    766118233,
+    793658884,
+    990262162,
+    327609846,
+    420452357
+  ]
+}

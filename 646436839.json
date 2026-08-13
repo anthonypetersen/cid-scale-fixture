@@ -1,0 +1,14 @@
+{
+  "key": "severity_of_anxiety_annual",
+  "conceptID": 646436839,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 600939801,
+  "sourceConceptId": 283771088,
+  "responses": [
+    375206448,
+    922714120,
+    262476264,
+    465359571,
+    138693351
+  ]
+}

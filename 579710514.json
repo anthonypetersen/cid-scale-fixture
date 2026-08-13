@@ -1,0 +1,14 @@
+{
+  "key": "duration_of_sleep_apnea_childhood",
+  "conceptID": 579710514,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 387515571,
+  "sourceConceptId": 872839827,
+  "responses": [
+    654140840,
+    703035541,
+    345416748,
+    681474768,
+    824385722
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "key": "reason_for_hormone_therapy_past_12_months",
+  "conceptID": 815328304,
+  "object_type": "QUESTION",
+  "secondaryConceptId": 373266670,
+  "responses": [
+    766118233,
+    793658884,
+    990262162,
+    327609846,
+    420452357
+  ]
+}
