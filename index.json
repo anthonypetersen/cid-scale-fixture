@@ -1,7 +1,7 @@
 {
   "_metadata": {
-    "last_updated": "2026-08-13T20:18:49.200Z",
-    "total_files": 8000,
+    "last_updated": "2026-08-18T12:34:22.067Z",
+    "total_files": 8001,
     "version": "2.0"
   },
   "_files": {
@@ -32004,6 +32004,10 @@
     "622149997.json": {
       "key": "self_reported_alcohol_use_confirmed",
       "object_type": "QUESTION"
+    },
+    "999000111.json": {
+      "key": "scale_write_probe",
+      "object_type": "PRIMARY"
     }
   },
   "_search": {
@@ -56007,6 +56011,9 @@
       ],
       "self_reported_alcohol_use_confirmed": [
         "622149997.json"
+      ],
+      "scale_write_probe": [
+        "999000111.json"
       ]
     },
     "by_type": {
@@ -56015,7 +56022,8 @@
         "503461503.json",
         "867219214.json",
         "702760637.json",
-        "257332508.json"
+        "257332508.json",
+        "999000111.json"
       ],
       "SECONDARY": [
         "573933287.json",
